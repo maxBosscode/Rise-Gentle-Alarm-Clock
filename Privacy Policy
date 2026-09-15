@@ -1,0 +1,142 @@
+Privacy Policy
+Rise
+Effective date: 15 September 2026
+
+1. Who we are (controller)
+Peter Švorc (“we”, “us”), Slovakia, is the controller of personal data processed in connection with the Rise app.
+
+Contact for privacy requests: support@bots5lab.com
+
+We do not publish a postal address in this Policy. You can contact us by email for any privacy matter.
+
+2. Scope
+This Policy describes how Rise handles information when you use the iOS app. It applies alongside our Terms of Use.
+
+3. What Rise is
+Rise is a wake-up / morning-routine app (alarms, optional soundscapes, optional light waking, challenges, insights, widgets, Live Activities, and optional premium purchases).
+
+4. Data we process
+A. Data stored on your device (generally not uploaded to our servers)
+Depending on what you enter and use:
+
+name / display name
+age (if provided)
+alarm and bedtime settings, repeat days, sound preferences, challenge settings
+light-waking preference
+notes (e.g. “tomorrow” notes)
+onboarding answers (e.g. sleep length, how you feel on waking)
+local wake history, streaks, and similar insights data
+app preferences (appearance, tutorials completed, paywall/review flags)
+purchase-related flags stored locally as needed for app function
+This data is stored locally (including in an App Group so widgets / extensions can read what they need). We do not require a Rise account.
+
+B. Analytics we send to our servers
+We collect anonymous product analytics to understand how Rise is used and improve it.
+
+Typically includes:
+
+a random device identifier (UUID generated on device)
+event names (examples: app open, onboarding steps, paywall events, alarm/sleep events, review-prompt events)
+limited event properties (e.g. plan type, toggle states, discount percent, app version)
+timestamps
+Analytics are sent to Supabase infrastructure hosted in the EU.
+
+We design analytics not to include your name, tomorrow note text, or precise GPS location.
+
+C. Purchases
+Purchases are processed by Apple. We use RevenueCat to help verify entitlements (subscription / lifetime / trial status).
+
+We do not receive your full payment card number. Apple may process identifiers related to your Apple ID and purchase history under Apple’s privacy policy.
+
+D. Permissions-related data (device OS)
+With your permission, the system may allow Rise to use:
+
+Notifications — schedule local alerts
+Camera — flashlight only for light waking (not for uploading photos/video)
+Microphone — not used as a core Rise data-collection feature
+Background audio — keep wake audio running
+Live Activities — show sleep/wake status on system UI
+optionally system alarm features if available
+Permission status itself may be checked on device to operate features.
+
+E. What we do not do
+We do not sell your personal data.
+We do not use your data for third-party advertising networks.
+We do not require you to create an email/password Rise account for core use.
+
+5. Purposes and legal bases (GDPR)
+Where GDPR applies, we process data for:
+
+Purpose	Examples	Legal basis
+Provide the App
+alarms, settings, widgets, Live Activities
+Contract / steps at your request
+Improve the product
+anonymous analytics events
+Legitimate interests (product improvement), and/or consent where required
+Purchases & access control
+unlock premium, restore, trial eligibility
+Contract; legitimate interests
+Support & legal
+respond to emails, comply with law
+Legitimate interests / legal obligation
+Security & abuse prevention
+keep services reliable
+Legitimate interests
+You may withdraw consent where processing is consent-based, without affecting prior lawful processing.
+
+6. Children
+Rise is for a general audience. We do not knowingly collect personal data from children for commercial profiling.
+
+If you believe a child provided data inappropriately, contact support@bots5lab.com and we will take reasonable steps to delete analytics linked to a device ID you help us identify.
+
+Parents/guardians should supervise use by minors and manage Apple Screen Time / purchase settings as appropriate.
+
+7. Sharing / processors
+We share data only as needed with:
+
+Apple — App Store, payments, push/local notification delivery, OS features
+RevenueCat — purchase/entitlement processing
+Supabase — EU hosting for analytics
+These providers process data on our instructions or as independent controllers for their own platform services (especially Apple).
+
+We do not sell personal data and do not share it with advertisers for targeted ads.
+
+8. International transfers
+Analytics are hosted in the EU. Apple/RevenueCat may process data in other countries under their terms and safeguards. Where required, transfers rely on appropriate mechanisms (e.g. Standard Contractual Clauses) used by those providers.
+
+9. Retention
+On-device data: until you delete it in-app (where available), clear app data, or uninstall Rise (subject to OS backups you control).
+Analytics events: retained for a limited operational period (raw events are not kept indefinitely; we aim for roughly 90 days for raw event detail unless we state otherwise).
+Aggregated statistics: we may keep de-identified or aggregated metrics (not tied to your device ID) to understand long-term product trends.
+Purchase records: retained as needed for entitlements, accounting, and legal obligations (often via Apple/RevenueCat).
+10. Your choices and rights
+In the App
+Change or delete many local settings yourself
+Settings → Remove my analytics data — deletes analytics events associated with your device ID from our analytics tables (aggregate totals may remain without your device ID)
+Manage notifications, camera, and other permissions in iOS Settings
+Cancel subscriptions in Apple ID settings
+GDPR rights (EU/EEA/UK as applicable)
+You may request access, rectification, erasure, restriction, objection, and portability where applicable, and you may lodge a complaint with your supervisory authority (in Slovakia, the Úrad na ochranu osobných údajov SR).
+
+Because Rise is largely local-first and analytics are device-ID based, we may ask you for information needed to locate your analytics device ID.
+
+Contact: support@bots5lab.com
+
+“Do Not Sell”
+We do not sell personal information as that term is commonly used under CCPA/CPRA. If that changes, we will update this Policy.
+
+11. Security
+We use reasonable technical and organizational measures appropriate to a small consumer app (including limiting analytics content and using infrastructure access controls). No method of transmission or storage is 100% secure.
+
+12. Sharing features
+If you use share sheets (e.g. Insights images), the content is shared by you through Apple’s share UI to destinations you choose. We do not operate those destination services.
+
+13. Widgets, App Group, Live Activities
+Data needed for widgets and Live Activities may be shared on-device between the main app and extensions via Apple App Group storage. This stays on your device unless a feature explicitly sends data to our servers (analytics as described above).
+
+14. Changes
+We may update this Privacy Policy. The Effective date will be updated. For material changes, we may provide additional notice in the App when practical.
+
+15. Contact
+Privacy and support: support@bots5lab.com
