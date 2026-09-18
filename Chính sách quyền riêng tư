@@ -1,0 +1,142 @@
+Chính sách quyền riêng tư
+Rise
+Ngày có hiệu lực: 15 tháng 9 năm 2026
+
+1. Chúng tôi là ai (bên kiểm soát dữ liệu)
+Peter Švorc (“chúng tôi”), Slovakia, là bên kiểm soát dữ liệu đối với dữ liệu cá nhân được xử lý liên quan đến ứng dụng Rise.
+
+Liên hệ về các yêu cầu liên quan đến quyền riêng tư: support@bots5lab.com
+
+Chúng tôi không công bố địa chỉ bưu chính trong Chính sách này. Bạn có thể liên hệ với chúng tôi qua email về bất kỳ vấn đề nào liên quan đến quyền riêng tư.
+
+2. Phạm vi
+Chính sách này mô tả cách Rise xử lý thông tin khi bạn sử dụng ứng dụng iOS. Chính sách này được áp dụng cùng với Điều khoản sử dụng của chúng tôi.
+
+3. Rise là gì
+Rise là ứng dụng hỗ trợ thức dậy và xây dựng thói quen buổi sáng (báo thức, âm thanh tùy chọn, đánh thức bằng ánh sáng tùy chọn, thử thách, thông tin phân tích, widget, Live Activities và các giao dịch mua premium tùy chọn).
+
+4. Dữ liệu chúng tôi xử lý
+A. Dữ liệu được lưu trên thiết bị của bạn (thông thường không được tải lên máy chủ của chúng tôi)
+Tùy thuộc vào thông tin bạn nhập và sử dụng:
+
+tên / tên hiển thị
+tuổi (nếu được cung cấp)
+cài đặt báo thức và giờ đi ngủ, ngày lặp lại, tùy chọn âm thanh và cài đặt thử thách
+tùy chọn đánh thức bằng ánh sáng
+ghi chú (ví dụ: ghi chú “ngày mai”)
+câu trả lời trong quá trình thiết lập ban đầu (ví dụ: thời lượng ngủ, cảm giác của bạn khi thức dậy)
+lịch sử thức dậy cục bộ, chuỗi ngày (streaks) và dữ liệu phân tích tương tự
+tùy chọn ứng dụng (giao diện, hướng dẫn đã hoàn thành, cờ paywall/yêu cầu đánh giá)
+các cờ liên quan đến giao dịch mua được lưu cục bộ khi cần cho chức năng của ứng dụng
+Dữ liệu này được lưu trữ cục bộ (bao gồm trong App Group để widget/tiện ích mở rộng có thể đọc dữ liệu cần thiết). Chúng tôi không yêu cầu tài khoản Rise.
+
+B. Dữ liệu phân tích chúng tôi gửi đến máy chủ
+Chúng tôi thu thập dữ liệu phân tích sản phẩm ẩn danh để hiểu cách Rise được sử dụng và cải thiện ứng dụng.
+
+Thông thường bao gồm:
+
+mã nhận dạng thiết bị ngẫu nhiên (UUID được tạo trên thiết bị)
+tên sự kiện (ví dụ: mở ứng dụng, các bước thiết lập, sự kiện paywall, sự kiện báo thức/ngủ, sự kiện yêu cầu đánh giá)
+các thuộc tính sự kiện giới hạn (ví dụ: loại gói, trạng thái công tắc, phần trăm giảm giá, phiên bản ứng dụng)
+dấu thời gian
+Dữ liệu phân tích được gửi đến cơ sở hạ tầng Supabase được lưu trữ tại EU.
+
+Chúng tôi thiết kế hệ thống phân tích để không bao gồm tên của bạn, nội dung ghi chú “ngày mai” hoặc vị trí GPS chính xác.
+
+C. Giao dịch mua
+Các giao dịch mua được Apple xử lý. Chúng tôi sử dụng RevenueCat để hỗ trợ xác minh quyền truy cập (gói đăng ký / quyền truy cập trọn đời / trạng thái dùng thử).
+
+Chúng tôi không nhận được toàn bộ số thẻ thanh toán của bạn. Apple có thể xử lý các mã nhận dạng liên quan đến Apple ID và lịch sử mua hàng của bạn theo chính sách quyền riêng tư của Apple.
+
+D. Dữ liệu liên quan đến quyền truy cập (hệ điều hành thiết bị)
+Với sự cho phép của bạn, hệ thống có thể cho phép Rise sử dụng:
+
+Thông báo — lên lịch cảnh báo cục bộ
+Camera — chỉ sử dụng đèn pin để đánh thức bằng ánh sáng (không tải ảnh/video lên)
+Micrô — không được sử dụng như một tính năng thu thập dữ liệu cốt lõi của Rise
+Âm thanh nền — duy trì âm thanh đánh thức
+Live Activities — hiển thị trạng thái ngủ/thức trên giao diện hệ thống
+các tính năng báo thức hệ thống tùy chọn, nếu có
+Trạng thái quyền có thể được kiểm tra trên thiết bị để vận hành các tính năng.
+
+E. Những điều chúng tôi không làm
+Chúng tôi không bán dữ liệu cá nhân của bạn.
+Chúng tôi không sử dụng dữ liệu của bạn cho các mạng quảng cáo bên thứ ba.
+Chúng tôi không yêu cầu bạn tạo tài khoản Rise bằng email/mật khẩu để sử dụng các chức năng cốt lõi.
+
+5. Mục đích và cơ sở pháp lý (GDPR)
+Khi GDPR được áp dụng, chúng tôi xử lý dữ liệu cho:
+
+Mục đích	Ví dụ	Cơ sở pháp lý
+Cung cấp Ứng dụng
+báo thức, cài đặt, widget, Live Activities
+Hợp đồng / các bước theo yêu cầu của bạn
+Cải thiện sản phẩm
+sự kiện phân tích ẩn danh
+Lợi ích hợp pháp (cải thiện sản phẩm) và/hoặc sự đồng ý khi được yêu cầu
+Mua hàng & kiểm soát quyền truy cập
+mở khóa premium, khôi phục, đủ điều kiện dùng thử
+Hợp đồng; lợi ích hợp pháp
+Hỗ trợ & pháp lý
+trả lời email, tuân thủ pháp luật
+Lợi ích hợp pháp / nghĩa vụ pháp lý
+Bảo mật & ngăn chặn lạm dụng
+duy trì độ tin cậy của dịch vụ
+Lợi ích hợp pháp
+Bạn có thể rút lại sự đồng ý khi việc xử lý dựa trên sự đồng ý, mà không ảnh hưởng đến tính hợp pháp của việc xử lý đã thực hiện trước khi bạn rút lại sự đồng ý.
+
+6. Trẻ em
+Rise dành cho đối tượng người dùng nói chung. Chúng tôi không cố ý thu thập dữ liệu cá nhân của trẻ em để lập hồ sơ thương mại.
+
+Nếu bạn cho rằng trẻ em đã cung cấp dữ liệu không phù hợp, hãy liên hệ support@bots5lab.com. Chúng tôi sẽ thực hiện các bước hợp lý để xóa dữ liệu phân tích liên kết với mã thiết bị mà bạn giúp chúng tôi xác định.
+
+Cha mẹ/người giám hộ nên giám sát việc sử dụng của trẻ vị thành niên và quản lý cài đặt Thời gian sử dụng màn hình/mua hàng của Apple khi thích hợp.
+
+7. Chia sẻ / bên xử lý
+Chúng tôi chỉ chia sẻ dữ liệu khi cần thiết với:
+
+Apple — App Store, thanh toán, phân phối thông báo push/cục bộ và các tính năng của hệ điều hành
+RevenueCat — xử lý giao dịch mua/quyền truy cập
+Supabase — lưu trữ dữ liệu phân tích tại EU
+Các nhà cung cấp này xử lý dữ liệu theo hướng dẫn của chúng tôi hoặc với tư cách là bên kiểm soát dữ liệu độc lập đối với các dịch vụ nền tảng của riêng họ (đặc biệt là Apple).
+
+Chúng tôi không bán dữ liệu cá nhân và không chia sẻ dữ liệu đó với nhà quảng cáo để quảng cáo được nhắm mục tiêu.
+
+8. Chuyển dữ liệu quốc tế
+Dữ liệu phân tích được lưu trữ tại EU. Apple/RevenueCat có thể xử lý dữ liệu tại các quốc gia khác theo điều khoản và biện pháp bảo vệ của họ. Khi được yêu cầu, việc chuyển dữ liệu dựa trên các cơ chế phù hợp (ví dụ: Điều khoản hợp đồng tiêu chuẩn) được các nhà cung cấp này sử dụng.
+
+9. Thời gian lưu trữ
+Dữ liệu trên thiết bị: cho đến khi bạn xóa dữ liệu trong ứng dụng (nếu có), xóa dữ liệu ứng dụng hoặc gỡ cài đặt Rise (tuân theo các bản sao lưu hệ điều hành do bạn kiểm soát).
+Sự kiện phân tích: được lưu giữ trong một khoảng thời gian vận hành có giới hạn (dữ liệu sự kiện thô không được lưu vô thời hạn; chúng tôi hướng tới khoảng 90 ngày đối với chi tiết sự kiện thô, trừ khi chúng tôi thông báo khác).
+Thống kê tổng hợp: chúng tôi có thể lưu giữ các số liệu đã được khử nhận dạng hoặc tổng hợp (không liên kết với mã thiết bị của bạn) để hiểu xu hướng sản phẩm dài hạn.
+Hồ sơ mua hàng: được lưu giữ khi cần thiết cho quyền truy cập, kế toán và nghĩa vụ pháp lý (thường thông qua Apple/RevenueCat).
+10. Lựa chọn và quyền của bạn
+Trong ứng dụng
+Tự thay đổi hoặc xóa nhiều cài đặt cục bộ
+Cài đặt → Xóa dữ liệu phân tích của tôi — xóa các sự kiện phân tích liên kết với mã thiết bị của bạn khỏi bảng phân tích của chúng tôi (tổng số liệu tổng hợp có thể vẫn còn nhưng không có mã thiết bị của bạn)
+Quản lý thông báo, camera và các quyền khác trong Cài đặt iOS
+Hủy đăng ký trong cài đặt Apple ID
+Quyền theo GDPR (EU/EEA/Anh, nếu áp dụng)
+Khi áp dụng, bạn có thể yêu cầu quyền truy cập, chỉnh sửa, xóa, hạn chế xử lý, phản đối và chuyển dữ liệu. Bạn cũng có thể khiếu nại với cơ quan giám sát có thẩm quyền.
+
+Vì Rise phần lớn hoạt động theo mô hình local-first và dữ liệu phân tích dựa trên mã thiết bị, chúng tôi có thể yêu cầu bạn cung cấp thông tin cần thiết để xác định mã thiết bị phân tích của bạn.
+
+Liên hệ: support@bots5lab.com
+
+“Do Not Sell”
+Chúng tôi không bán thông tin cá nhân theo cách thuật ngữ này thường được sử dụng theo CCPA/CPRA. Nếu điều này thay đổi, chúng tôi sẽ cập nhật Chính sách này.
+
+11. Bảo mật
+Chúng tôi sử dụng các biện pháp kỹ thuật và tổ chức hợp lý phù hợp với một ứng dụng dành cho người tiêu dùng quy mô nhỏ (bao gồm hạn chế nội dung phân tích và sử dụng kiểm soát truy cập cơ sở hạ tầng). Không có phương thức truyền hoặc lưu trữ nào an toàn 100%.
+
+12. Tính năng chia sẻ
+Nếu bạn sử dụng bảng chia sẻ (ví dụ: hình ảnh Insights), nội dung được bạn chia sẻ thông qua giao diện chia sẻ của Apple đến các điểm đến mà bạn chọn. Chúng tôi không vận hành các dịch vụ đích đó.
+
+13. Widget, App Group và Live Activities
+Dữ liệu cần thiết cho widget và Live Activities có thể được chia sẻ trên thiết bị giữa ứng dụng chính và các tiện ích mở rộng thông qua bộ nhớ App Group của Apple. Dữ liệu này vẫn trên thiết bị của bạn trừ khi một tính năng rõ ràng gửi dữ liệu đến máy chủ của chúng tôi (dữ liệu phân tích như mô tả ở trên).
+
+14. Thay đổi
+Chúng tôi có thể cập nhật Chính sách quyền riêng tư này. Ngày có hiệu lực sẽ được cập nhật. Đối với các thay đổi quan trọng, chúng tôi có thể cung cấp thông báo bổ sung trong ứng dụng khi khả thi.
+
+15. Liên hệ
+Quyền riêng tư và hỗ trợ: support@bots5lab.com

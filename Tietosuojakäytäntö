@@ -1,0 +1,142 @@
+Tietosuojakäytäntö
+Rise
+Voimaantulopäivä: 15. syyskuuta 2026
+
+1. Keitä olemme (rekisterinpitäjä)
+Peter Švorc (”me”, ”meitä”), Slovakia, on Rise-sovellukseen liittyvien henkilötietojen käsittelystä vastaava rekisterinpitäjä.
+
+Tietosuojaa koskevat yhteydenotot: support@bots5lab.com
+
+Emme julkaise postiosoitetta tässä tietosuojakäytännössä. Voit ottaa meihin yhteyttä sähköpostitse kaikissa tietosuojaan liittyvissä asioissa.
+
+2. Soveltamisala
+Tässä tietosuojakäytännössä kuvataan, miten Rise käsittelee tietoja, kun käytät iOS-sovellusta. Sitä sovelletaan yhdessä käyttöehtojemme kanssa.
+
+3. Mikä Rise on
+Rise on heräämiseen ja aamurutiineihin tarkoitettu sovellus (hälytykset, valinnaiset äänimaisemat, valinnainen valoherätys, haasteet, näkemykset, widgetit, Live Activities -toiminnot ja valinnaiset premium-ostokset).
+
+4. Käsittelemämme tiedot
+A. Laitteellesi tallennetut tiedot (joita ei yleensä ladata palvelimillemme)
+Riippuen siitä, mitä annat ja käytät:
+
+nimi / näyttönimi
+ikä (jos annettu)
+herätys- ja nukkumaanmenoasetukset, toistopäivät, ääniasetukset ja haasteasetukset
+valoherätyksen asetus
+muistiinpanot (esim. ”huomista” koskevat muistiinpanot)
+käyttöönoton aikana annetut vastaukset (esim. unen pituus ja miltä sinusta tuntuu herätessä)
+paikallinen heräämishistoria, streakit ja vastaavat näkemyksiin liittyvät tiedot
+sovelluksen asetukset (ulkoasu, suoritetut ohjeet, paywall-/arvostelupyynnön merkinnät)
+ostoksiin liittyvät paikallisesti tallennetut tiedot siltä osin kuin niitä tarvitaan sovelluksen toimintaan
+Nämä tiedot tallennetaan paikallisesti (myös App Groupiin, jotta widgetit/laajennukset voivat lukea tarvitsemansa tiedot). Emme edellytä Rise-tilin luomista.
+
+B. Palvelimillemme lähettämämme analytiikkatiedot
+Keräämme anonyymiä tuotteen analytiikkatietoa ymmärtääksemme, miten Riseä käytetään, ja kehittääksemme sovellusta.
+
+Tämä sisältää yleensä:
+
+satunnaisen laitetunnisteen (laitteella luotu UUID)
+tapahtumien nimet (esim. sovelluksen avaaminen, käyttöönoton vaiheet, paywall-tapahtumat, herätys-/unitapahtumat ja arvostelupyynnön tapahtumat)
+rajoitetut tapahtumaominaisuudet (esim. tilaustyyppi, kytkimien tilat, alennusprosentti ja sovellusversio)
+aikaleimat
+Analytiikkatiedot lähetetään EU:ssa sijaitsevaan Supabase-infrastruktuuriin.
+
+Suunnittelemme analytiikan siten, ettei se sisällä nimeäsi, huomista koskevien muistiinpanojen tekstiä tai tarkkaa GPS-sijaintiasi.
+
+C. Ostokset
+Apple käsittelee ostokset. Käytämme RevenueCatia tilausten ja muiden käyttöoikeuksien vahvistamiseen (tilaus / elinikäinen käyttöoikeus / kokeilujakso).
+
+Emme saa täydellistä maksukorttinumeroasi. Apple voi käsitellä Apple ID:hesi ja ostohistoriaasi liittyviä tunnisteita Applen tietosuojakäytännön mukaisesti.
+
+D. Käyttöoikeuksiin liittyvät tiedot (laitteen käyttöjärjestelmä)
+Luvallasi järjestelmä voi sallia Risen käyttää:
+
+Ilmoitukset — paikallisten ilmoitusten ajastaminen
+Kamera — vain taskulamppuvaloherätystä varten (valokuvia/videoita ei ladata)
+Mikrofoni — ei käytetä Risen keskeisenä tiedonkeruuominaisuutena
+Taustaääni — herätysäänen pitäminen käynnissä
+Live Activities — uni-/heräämistilan näyttäminen järjestelmän käyttöliittymässä
+mahdolliset järjestelmän hälytystoiminnot, jos ne ovat saatavilla
+Käyttöoikeuksien tila voidaan tarkistaa laitteella toimintojen mahdollistamiseksi.
+
+E. Mitä emme tee
+Emme myy henkilötietojasi.
+Emme käytä tietojasi kolmansien osapuolten mainosverkostoihin.
+Emme edellytä sähköposti-/salasanapohjaisen Rise-tilin luomista sovelluksen peruskäyttöä varten.
+
+5. Tarkoitukset ja oikeusperusteet (GDPR)
+Kun GDPR:ää sovelletaan, käsittelemme tietoja seuraaviin tarkoituksiin:
+
+Tarkoitus	Esimerkkejä	Oikeusperuste
+Sovelluksen tarjoaminen
+hälytykset, asetukset, widgetit, Live Activities
+Sopimus / pyynnöstäsi toteutettavat toimet
+Tuotteen kehittäminen
+anonyymit analytiikkatapahtumat
+Oikeutettu etu (tuotteen kehittäminen) ja/tai suostumus silloin, kun sitä vaaditaan
+Ostokset ja käyttöoikeuksien hallinta
+premiumin avaaminen, palauttaminen, kokeilujakson kelpoisuus
+Sopimus; oikeutettu etu
+Tuki ja lakisääteiset velvoitteet
+sähköposteihin vastaaminen, lain noudattaminen
+Oikeutettu etu / lakisääteinen velvoite
+Turvallisuus ja väärinkäytösten ehkäiseminen
+palveluiden luotettavuuden ylläpitäminen
+Oikeutettu etu
+Voit peruuttaa suostumuksesi silloin, kun käsittely perustuu suostumukseen. Tämä ei vaikuta ennen suostumuksen peruuttamista suoritetun käsittelyn lainmukaisuuteen.
+
+6. Lapset
+Rise on tarkoitettu yleiselle käyttäjäkunnalle. Emme tietoisesti kerää lasten henkilötietoja kaupallista profilointia varten.
+
+Jos uskot, että lapsi on antanut tietoja epäasianmukaisesti, ota yhteyttä osoitteeseen support@bots5lab.com. Ryhdymme kohtuullisiin toimiin poistaaksemme analytiikan, joka liittyy laitetunnisteeseen, jonka autat meitä tunnistamaan.
+
+Vanhempien/huoltajien tulee valvoa alaikäisten käyttöä ja hallita tarvittaessa Applen Ruutuaika-/ostoasetuksia.
+
+7. Tietojen jakaminen / käsittelijät
+Jaamme tietoja vain tarvittaessa seuraavien tahojen kanssa:
+
+Apple — App Store, maksut, push-/paikallisten ilmoitusten toimitus ja käyttöjärjestelmän ominaisuudet
+RevenueCat — ostosten ja käyttöoikeuksien käsittely
+Supabase — EU:ssa sijaitseva analytiikan hosting
+Nämä palveluntarjoajat käsittelevät tietoja ohjeidemme mukaisesti tai itsenäisinä rekisterinpitäjinä omien alustapalveluidensa osalta (erityisesti Apple).
+
+Emme myy henkilötietoja emmekä jaa niitä mainostajille kohdennettua mainontaa varten.
+
+8. Kansainväliset tiedonsiirrot
+Analytiikkaa isännöidään EU:ssa. Apple/RevenueCat voivat käsitellä tietoja muissa maissa omien ehtojensa ja suojatoimiensa mukaisesti. Kun sitä edellytetään, siirrot perustuvat asianmukaisiin mekanismeihin (esim. vakiomuotoisiin sopimuslausekkeisiin), joita nämä palveluntarjoajat käyttävät.
+
+9. Säilytys
+Laitteella olevat tiedot: kunnes poistat ne sovelluksessa (jos toiminto on käytettävissä), tyhjennät sovelluksen tiedot tai poistat Risen (ottaen huomioon hallinnassasi olevat käyttöjärjestelmän varmuuskopiot).
+Analytiikkatapahtumat: säilytetään rajoitetun ajan (raakatapahtumia ei säilytetä pysyvästi; tavoitteemme on säilyttää yksityiskohtaiset raakatapahtumat noin 90 päivän ajan, ellei toisin ilmoiteta).
+Yhdistetyt tilastot: voimme säilyttää anonymisoituja tai yhdistettyjä mittareita (joita ei ole yhdistetty laitetunnisteeseesi) ymmärtääksemme pitkän aikavälin tuotetrendejä.
+Ostotiedot: säilytetään niin kauan kuin käyttöoikeuksien, kirjanpidon ja lakisääteisten velvoitteiden kannalta on tarpeen (usein Applen/RevenueCatin kautta).
+10. Valintasi ja oikeutesi
+Sovelluksessa
+Muuttaa tai poistaa monia paikallisia asetuksia itse
+Asetukset → Poista analytiikkatietoni — poistaa laitetunnisteeseesi liittyvät analytiikkatapahtumat analytiikkataulukoistamme (yhdistetyt kokonaismäärät voivat säilyä ilman laitetunnistettasi)
+Hallita ilmoituksia, kameraa ja muita käyttöoikeuksia iOS-asetuksissa
+Peruuttaa tilauksia Apple ID -asetuksissa
+GDPR-oikeudet (EU/ETA/Yhdistynyt kuningaskunta soveltuvin osin)
+Voit sovellettavissa tapauksissa pyytää pääsyä tietoihisi, tietojen oikaisua tai poistamista, käsittelyn rajoittamista, vastustaa käsittelyä sekä pyytää tietojen siirrettävyyttä. Voit myös tehdä valituksen toimivaltaiselle valvontaviranomaiselle.
+
+Koska Rise toimii suurelta osin local-first-periaatteella ja analytiikka perustuu laitetunnisteeseen, voimme pyytää sinulta tietoja, joita tarvitaan analytiikan laitetunnisteesi löytämiseksi.
+
+Yhteydenotot: support@bots5lab.com
+
+”Do Not Sell”
+Emme myy henkilötietoja siinä merkityksessä kuin termiä yleisesti käytetään CCPA/CPRA-lainsäädännössä. Jos tämä muuttuu, päivitämme tämän tietosuojakäytännön.
+
+11. Turvallisuus
+Käytämme kohtuullisia teknisiä ja organisatorisia toimenpiteitä, jotka soveltuvat pienelle kuluttajasovellukselle (mukaan lukien analytiikan sisällön rajoittaminen ja infrastruktuurin käyttöoikeuksien hallinta). Mikään tiedonsiirto- tai tallennusmenetelmä ei ole 100 % turvallinen.
+
+12. Jakamisominaisuudet
+Jos käytät jakamisvalikkoa (esim. Insights-kuvat), jaat sisällön itse Applen jakokäyttöliittymän kautta valitsemiisi kohteisiin. Emme hallinnoi näitä kohdepalveluita.
+
+13. Widgetit, App Group ja Live Activities
+Widgetien ja Live Activities -toimintojen tarvitsemia tietoja voidaan jakaa laitteella pääsovelluksen ja laajennusten välillä Applen App Group -tallennustilan kautta. Tiedot pysyvät laitteellasi, ellei jokin ominaisuus nimenomaisesti lähetä tietoja palvelimillemme (analytiikka edellä kuvatulla tavalla).
+
+14. Muutokset
+Voimme päivittää tätä tietosuojakäytäntöä. Voimaantulopäivä päivitetään tällöin. Olennaisista muutoksista voimme mahdollisuuksien mukaan ilmoittaa myös sovelluksessa.
+
+15. Yhteystiedot
+Tietosuoja ja tuki: support@bots5lab.com

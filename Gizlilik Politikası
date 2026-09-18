@@ -1,0 +1,142 @@
+Gizlilik Politikası
+Rise
+Yürürlük tarihi: 15 Eylül 2026
+
+1. Biz kimiz (veri sorumlusu)
+Peter Švorc (“biz”, “bize”), Slovakya, Rise uygulamasıyla bağlantılı olarak işlenen kişisel verilerin veri sorumlusudur.
+
+Gizlilik talepleri için iletişim: support@bots5lab.com
+
+Bu Politikada posta adresi yayınlamıyoruz. Gizlilikle ilgili her türlü konuda bizimle e-posta yoluyla iletişime geçebilirsiniz.
+
+2. Kapsam
+Bu Gizlilik Politikası, iOS uygulamasını kullandığınızda Rise'ın bilgileri nasıl işlediğini açıklar. Bu Politika, Kullanım Koşullarımız ile birlikte geçerlidir.
+
+3. Rise nedir?
+Rise, uyanma ve sabah rutini uygulamasıdır (alarmlar, isteğe bağlı ses ortamları, isteğe bağlı ışıkla uyandırma, görevler, içgörüler, widget'lar, Live Activities ve isteğe bağlı premium satın alımlar).
+
+4. İşlediğimiz veriler
+A. Cihazınızda saklanan veriler (genellikle sunucularımıza yüklenmez)
+Girdiğiniz ve kullandığınız bilgilere bağlı olarak:
+
+ad / görünen ad
+yaş (verilmişse)
+alarm ve yatma zamanı ayarları, tekrar günleri, ses tercihleri ve görev ayarları
+ışıkla uyandırma tercihi
+notlar (ör. “yarın” notları)
+onboarding yanıtları (ör. uyku süresi, uyandığınızda nasıl hissettiğiniz)
+yerel uyanma geçmişi, seriler ve benzer içgörü verileri
+uygulama tercihleri (görünüm, tamamlanan eğitimler, paywall/inceleme işaretleri)
+uygulamanın çalışması için gerektiği ölçüde yerel olarak saklanan satın alma bilgileri
+Bu veriler yerel olarak saklanır (widget'ların/uzantıların ihtiyaç duydukları verileri okuyabilmesi için bir App Group içinde de saklanabilir). Rise hesabı oluşturmanızı zorunlu tutmuyoruz.
+
+B. Sunucularımıza gönderdiğimiz analiz verileri
+Rise'ın nasıl kullanıldığını anlamak ve uygulamayı geliştirmek için anonim ürün analizleri topluyoruz.
+
+Bunlar genellikle şunları içerir:
+
+rastgele bir cihaz tanımlayıcısı (cihaz üzerinde oluşturulan UUID)
+etkinlik adları (ör. uygulamanın açılması, onboarding adımları, paywall etkinlikleri, alarm/uyku etkinlikleri, inceleme istemi etkinlikleri)
+sınırlı etkinlik özellikleri (ör. plan türü, açma/kapama durumları, indirim yüzdesi, uygulama sürümü)
+zaman damgaları
+Analiz verileri AB'de barındırılan Supabase altyapısına gönderilir.
+
+Analiz sistemimizi adınızı, yarın notlarının metnini veya kesin GPS konumunuzu içermeyecek şekilde tasarlıyoruz.
+
+C. Satın alımlar
+Satın alımlar Apple tarafından işlenir. Yetkileri doğrulamaya yardımcı olmak için RevenueCat kullanıyoruz (abonelik / ömür boyu erişim / deneme süresi durumu).
+
+Tam ödeme kartı numaranızı almayız. Apple, Apple'ın gizlilik politikası kapsamında Apple ID'niz ve satın alma geçmişinizle ilişkili tanımlayıcıları işleyebilir.
+
+D. İzinlerle ilgili veriler (cihaz işletim sistemi)
+İzninizle sistem Rise'ın aşağıdakileri kullanmasına izin verebilir:
+
+Bildirimler — yerel bildirimleri zamanlamak
+Kamera — yalnızca ışıkla uyandırma için el feneri (fotoğraf/video yüklemek için kullanılmaz)
+Mikrofon — Rise'ın temel veri toplama özelliği olarak kullanılmaz
+Arka plan sesi — uyandırma sesinin çalışmaya devam etmesini sağlamak
+Live Activities — uyku/uyanma durumunu sistem arayüzünde göstermek
+varsa isteğe bağlı sistem alarm özellikleri
+Özelliklerin çalışmasını sağlamak için izin durumu cihaz üzerinde kontrol edilebilir.
+
+E. Yapmadığımız şeyler
+Kişisel verilerinizi satmıyoruz.
+Verilerinizi üçüncü taraf reklam ağları için kullanmıyoruz.
+Temel kullanım için e-posta/şifre içeren bir Rise hesabı oluşturmanızı zorunlu tutmuyoruz.
+
+5. Amaçlar ve hukuki dayanaklar (GDPR)
+GDPR'nin geçerli olduğu durumlarda verileri şu amaçlarla işleriz:
+
+Amaç	Örnekler	Hukuki dayanak
+Uygulamayı sunmak
+alarmlar, ayarlar, widget'lar, Live Activities
+Sözleşme / talebiniz üzerine gerçekleştirilen işlemler
+Ürünü geliştirmek
+anonim analiz etkinlikleri
+Meşru menfaatler (ürün geliştirme) ve/veya gerektiğinde onay
+Satın alımlar ve erişim kontrolü
+premium'un kilidini açmak, geri yüklemek, deneme uygunluğu
+Sözleşme; meşru menfaatler
+Destek ve yasal yükümlülükler
+e-postalara yanıt vermek, yasalara uymak
+Meşru menfaatler / yasal yükümlülük
+Güvenlik ve kötüye kullanımı önleme
+hizmetlerin güvenilirliğini korumak
+Meşru menfaatler
+İşleme onaya dayalı olduğunda onayınızı geri çekebilirsiniz. Bu, geri çekmeden önce gerçekleştirilen işlemenin hukuka uygunluğunu etkilemez.
+
+6. Çocuklar
+Rise genel kullanıcı kitlesine yöneliktir. Çocukların kişisel verilerini ticari profil oluşturmak amacıyla bilerek toplamıyoruz.
+
+Bir çocuğun uygunsuz şekilde veri sağladığına inanıyorsanız support@bots5lab.com adresinden bizimle iletişime geçin. Belirlemenize yardımcı olduğunuz bir cihaz kimliğiyle bağlantılı analiz verilerini silmek için makul adımları atacağız.
+
+Ebeveynler/yasal vasiler, reşit olmayanların kullanımını denetlemeli ve uygun olduğu durumlarda Apple Ekran Süresi/satın alma ayarlarını yönetmelidir.
+
+7. Paylaşım / hizmet sağlayıcılar
+Verileri yalnızca gerektiği ölçüde şu taraflarla paylaşırız:
+
+Apple — App Store, ödemeler, push/yerel bildirimlerin iletilmesi ve işletim sistemi özellikleri
+RevenueCat — satın alma/yetki işlemleri
+Supabase — analiz verileri için AB'de barındırma
+Bu sağlayıcılar verileri talimatlarımız doğrultusunda veya kendi platform hizmetleri için bağımsız veri sorumluları olarak işler (özellikle Apple).
+
+Kişisel verileri satmıyoruz ve hedefli reklam amacıyla reklamverenlerle paylaşmıyoruz.
+
+8. Uluslararası veri aktarımları
+Analiz verileri AB'de barındırılır. Apple/RevenueCat, kendi koşulları ve güvenlik önlemleri kapsamında verileri başka ülkelerde işleyebilir. Gerekli olduğu durumlarda aktarımlar, bu sağlayıcıların kullandığı uygun mekanizmalara (ör. Standart Sözleşme Maddeleri) dayanır.
+
+9. Saklama
+Cihazdaki veriler: uygulama içinde silene kadar (mevcut olduğunda), uygulama verilerini temizleyene veya Rise'ı kaldırana kadar (kontrolünüzdeki işletim sistemi yedekleri saklı kalabilir).
+Analiz etkinlikleri: sınırlı bir operasyonel süre boyunca saklanır (ham etkinlikler süresiz olarak tutulmaz; aksi belirtilmedikçe ham etkinlik ayrıntıları için yaklaşık 90 günlük bir süre hedefliyoruz).
+Toplu istatistikler: uzun vadeli ürün trendlerini anlamak amacıyla anonimleştirilmiş veya toplu ölçümleri (cihaz kimliğinize bağlı olmayan) saklayabiliriz.
+Satın alma kayıtları: yetkiler, muhasebe ve yasal yükümlülükler için gerektiği kadar saklanır (çoğunlukla Apple/RevenueCat aracılığıyla).
+10. Seçimleriniz ve haklarınız
+Uygulamada
+Birçok yerel ayarı kendiniz değiştirebilir veya silebilirsiniz
+Ayarlar → Analiz verilerimi sil — cihaz kimliğinizle ilişkili analiz etkinliklerini analiz tablolarımızdan siler (toplu toplamlar cihaz kimliğiniz olmadan kalabilir)
+Bildirimleri, kamerayı ve diğer izinleri iOS Ayarları'ndan yönetebilirsiniz
+Abonelikleri Apple ID ayarlarından iptal edebilirsiniz
+GDPR hakları (geçerli olduğu ölçüde AB/AEA/Birleşik Krallık)
+Geçerli olduğu durumlarda verilere erişim, düzeltme, silme, işlemenin kısıtlanması, itiraz ve veri taşınabilirliği talep edebilirsiniz. Ayrıca denetim makamınıza şikayette bulunabilirsiniz (Slovakya'da: Úrad na ochranu osobných údajov SR).
+
+Rise büyük ölçüde local-first çalıştığından ve analizler cihaz kimliğine dayandığından, analiz cihaz kimliğinizi bulmak için gerekli bilgileri sizden isteyebiliriz.
+
+İletişim: support@bots5lab.com
+
+“Do Not Sell”
+CCPA/CPRA kapsamında terimin yaygın olarak kullanıldığı anlamıyla kişisel bilgi satmıyoruz. Bu durum değişirse bu Politikayı güncelleyeceğiz.
+
+11. Güvenlik
+Küçük bir tüketici uygulamasına uygun makul teknik ve organizasyonel önlemler kullanıyoruz (analiz içeriğinin sınırlandırılması ve altyapıya erişim kontrolleri dahil). Hiçbir aktarım veya saklama yöntemi %100 güvenli değildir.
+
+12. Paylaşım özellikleri
+Paylaşım sayfalarını (ör. Insights görselleri) kullanırsanız içerik, Apple'ın paylaşım arayüzü aracılığıyla sizin tarafınızdan seçtiğiniz hedeflere paylaşılır. Bu hedef hizmetleri biz işletmiyoruz.
+
+13. Widget'lar, App Group ve Live Activities
+Widget'lar ve Live Activities için gerekli veriler, Apple App Group depolaması aracılığıyla ana uygulama ve uzantılar arasında cihaz üzerinde paylaşılabilir. Bir özellik açıkça sunucularımıza veri göndermediği sürece bu veriler cihazınızda kalır (yukarıda açıklanan analiz verileri gibi).
+
+14. Değişiklikler
+Bu Gizlilik Politikasını güncelleyebiliriz. Yürürlük tarihi güncellenecektir. Önemli değişikliklerde, mümkün olduğunda uygulama içinde ek bildirim sağlayabiliriz.
+
+15. İletişim
+Gizlilik ve destek: support@bots5lab.com
