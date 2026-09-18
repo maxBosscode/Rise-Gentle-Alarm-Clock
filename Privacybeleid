@@ -1,0 +1,142 @@
+Privacybeleid
+Rise
+Ingangsdatum: 15 september 2026
+
+1. Wie wij zijn (verwerkingsverantwoordelijke)
+Peter Švorc (“wij”, “ons”), Slowakije, is de verwerkingsverantwoordelijke voor de persoonsgegevens die worden verwerkt in verband met de Rise-app.
+
+Contact voor privacyverzoeken: support@bots5lab.com
+
+Wij publiceren geen postadres in dit Privacybeleid. U kunt voor alle privacykwesties contact met ons opnemen via e-mail.
+
+2. Reikwijdte
+Dit Privacybeleid beschrijft hoe Rise omgaat met informatie wanneer u de iOS-app gebruikt. Het geldt naast onze Gebruiksvoorwaarden.
+
+3. Wat Rise is
+Rise is een app voor het wakker worden en de ochtendroutine (alarmen, optionele soundscapes, optioneel wakker worden met licht, uitdagingen, inzichten, widgets, Live Activities en optionele premiumaankopen).
+
+4. Gegevens die wij verwerken
+A. Gegevens die op uw apparaat worden opgeslagen (over het algemeen niet naar onze servers geüpload)
+Afhankelijk van wat u invoert en gebruikt:
+
+naam / weergavenaam
+leeftijd (indien verstrekt)
+alarm- en bedtijdinstellingen, herhaaldagen, geluidsvoorkeuren en challenge-instellingen
+voorkeur voor wakker worden met licht
+notities (bijv. notities voor “morgen”)
+antwoorden tijdens de onboarding (bijv. slaapduur, hoe u zich voelt bij het wakker worden)
+lokale gegevens over uw wekgeschiedenis, streaks en vergelijkbare inzichten
+app-voorkeuren (weergave, voltooide tutorials, paywall-/review-markeringen)
+lokaal opgeslagen aankoopgerelateerde markeringen die nodig zijn voor de werking van de app
+Deze gegevens worden lokaal opgeslagen (waaronder in een App Group, zodat widgets/extensies de benodigde gegevens kunnen lezen). Wij vereisen geen Rise-account.
+
+B. Analytics die wij naar onze servers verzenden
+Wij verzamelen anonieme productanalytics om te begrijpen hoe Rise wordt gebruikt en om de app te verbeteren.
+
+Dit omvat doorgaans:
+
+een willekeurige apparaat-ID (UUID die op het apparaat wordt gegenereerd)
+eventnamen (bijv. app openen, onboardingstappen, paywall-events, alarm-/slaapevents, review-prompt-events)
+beperkte eventgegevens (bijv. plantype, schakelaarstatussen, kortingspercentage, app-versie)
+tijdstempels
+Analytics worden verzonden naar Supabase-infrastructuur die in de EU wordt gehost.
+
+Wij ontwerpen onze analytics zo dat deze geen naam, tekst van notities voor morgen of precieze GPS-locatie bevatten.
+
+C. Aankopen
+Aankopen worden verwerkt door Apple. Wij gebruiken RevenueCat om abonnementen en andere toegangsrechten te helpen verifiëren (abonnement / levenslange toegang / proefperiode).
+
+Wij ontvangen niet uw volledige betaalkaartnummer. Apple kan gegevens verwerken die verband houden met uw Apple ID en aankoopgeschiedenis volgens het privacybeleid van Apple.
+
+D. Gegevens met betrekking tot machtigingen (apparaat-OS)
+Met uw toestemming kan het systeem Rise toegang geven tot:
+
+Meldingen — lokale meldingen plannen
+Camera — alleen de zaklamp gebruiken voor wakker worden met licht (geen upload van foto's/video)
+Microfoon — niet gebruikt als kernfunctie voor gegevensverzameling door Rise
+Audio op de achtergrond — wake-up-audio laten doorgaan
+Live Activities — slaap-/wekstatus tonen in de systeeminterface
+optionele systeemalarmfuncties indien beschikbaar
+De status van machtigingen kan op het apparaat worden gecontroleerd om functies te laten werken.
+
+E. Wat wij niet doen
+Wij verkopen uw persoonsgegevens niet.
+Wij gebruiken uw gegevens niet voor advertentienetwerken van derden.
+Wij vereisen niet dat u een Rise-account met e-mailadres/wachtwoord aanmaakt voor het kerngebruik van de app.
+
+5. Doeleinden en rechtsgrondslagen (AVG/GDPR)
+Waar de GDPR/AVG van toepassing is, verwerken wij gegevens voor:
+
+Doel	Voorbeelden	Rechtsgrondslag
+De app leveren
+alarmen, instellingen, widgets, Live Activities
+Overeenkomst / stappen op uw verzoek
+Het product verbeteren
+anonieme analytics-events
+Gerechtvaardigde belangen (productverbetering) en/of toestemming waar vereist
+Aankopen & toegangsbeheer
+premium ontgrendelen, herstellen, geschiktheid voor proefperiode
+Overeenkomst; gerechtvaardigde belangen
+Ondersteuning & wettelijke verplichtingen
+reageren op e-mails, voldoen aan de wet
+Gerechtvaardigde belangen / wettelijke verplichting
+Beveiliging & misbruikpreventie
+diensten betrouwbaar houden
+Gerechtvaardigde belangen
+U kunt uw toestemming intrekken wanneer de verwerking op toestemming is gebaseerd, zonder dat dit gevolgen heeft voor de rechtmatigheid van de verwerking die vóór de intrekking heeft plaatsgevonden.
+
+6. Kinderen
+Rise is bedoeld voor een algemeen publiek. Wij verzamelen niet bewust persoonsgegevens van kinderen voor commerciële profilering.
+
+Als u denkt dat een kind op ongepaste wijze gegevens heeft verstrekt, neem dan contact op via support@bots5lab.com. Wij zullen redelijke stappen ondernemen om analytics te verwijderen die gekoppeld zijn aan een apparaat-ID dat u ons helpt identificeren.
+
+Ouders/voogden dienen het gebruik door minderjarigen te begeleiden en waar passend de Apple Schermtijd-/aankoopinstellingen te beheren.
+
+7. Delen / verwerkers
+Wij delen gegevens alleen indien nodig met:
+
+Apple — App Store, betalingen, levering van push-/lokale meldingen en OS-functies
+RevenueCat — verwerking van aankopen/toegangsrechten
+Supabase — hosting in de EU voor analytics
+Deze aanbieders verwerken gegevens in onze opdracht of als onafhankelijke verwerkingsverantwoordelijken voor hun eigen platformdiensten (met name Apple).
+
+Wij verkopen geen persoonsgegevens en delen deze niet met adverteerders voor gerichte advertenties.
+
+8. Internationale gegevensoverdracht
+Analytics worden in de EU gehost. Apple/RevenueCat kunnen gegevens in andere landen verwerken volgens hun voorwaarden en waarborgen. Waar vereist, zijn overdrachten gebaseerd op passende mechanismen (bijv. Standard Contractual Clauses) die door deze aanbieders worden gebruikt.
+
+9. Bewaring
+Gegevens op het apparaat: totdat u deze in de app verwijdert (waar beschikbaar), appgegevens wist of Rise verwijdert (met inachtneming van OS-back-ups die u beheert).
+Analytics-events: worden gedurende een beperkte operationele periode bewaard (ruwe events worden niet onbeperkt bewaard; wij streven naar ongeveer 90 dagen voor gedetailleerde ruwe events, tenzij wij anders aangeven).
+Geaggregeerde statistieken: wij kunnen geanonimiseerde of geaggregeerde statistieken bewaren (niet gekoppeld aan uw apparaat-ID) om langetermijntrends van het product te begrijpen.
+Aankoopgegevens: worden bewaard zolang dat nodig is voor toegangsrechten, boekhouding en wettelijke verplichtingen (vaak via Apple/RevenueCat).
+10. Uw keuzes en rechten
+In de app
+Veel lokale instellingen zelf wijzigen of verwijderen
+Instellingen → Mijn analyticsgegevens verwijderen — verwijdert analytics-events die aan uw apparaat-ID zijn gekoppeld uit onze analysetabellen (geaggregeerde totalen kunnen blijven bestaan zonder uw apparaat-ID)
+Meldingen, camera en andere machtigingen beheren via de iOS-instellingen
+Abonnementen annuleren via de Apple ID-instellingen
+AVG/GDPR-rechten (EU/EER/VK, indien van toepassing)
+U kunt, waar van toepassing, verzoeken om inzage, rectificatie, verwijdering, beperking van verwerking, bezwaar en overdraagbaarheid. U kunt ook een klacht indienen bij uw toezichthoudende autoriteit (in Slowakije: de Úrad na ochranu osobných údajov SR).
+
+Omdat Rise grotendeels lokaal werkt en analytics gebaseerd zijn op een apparaat-ID, kunnen wij u vragen om informatie die nodig is om uw analytics-apparaat-ID te vinden.
+
+Contact: support@bots5lab.com
+
+“Do Not Sell”
+Wij verkopen geen persoonsgegevens zoals die term doorgaans wordt gebruikt onder de CCPA/CPRA. Als dit verandert, zullen wij dit Privacybeleid bijwerken.
+
+11. Beveiliging
+Wij gebruiken redelijke technische en organisatorische maatregelen die passend zijn voor een kleine consumentenapp (waaronder het beperken van de inhoud van analytics en het gebruik van toegangscontroles voor infrastructuur). Geen enkele methode voor verzending of opslag is 100% veilig.
+
+12. Functies voor delen
+Als u gebruikmaakt van share sheets (bijv. afbeeldingen van Insights), wordt de inhoud door u gedeeld via de deelinterface van Apple met de bestemmingen die u kiest. Wij beheren deze bestemmingsdiensten niet.
+
+13. Widgets, App Group en Live Activities
+Gegevens die nodig zijn voor widgets en Live Activities kunnen op het apparaat tussen de hoofdapp en extensies worden gedeeld via Apple App Group-opslag. Deze gegevens blijven op uw apparaat, tenzij een functie expliciet gegevens naar onze servers verzendt (analytics zoals hierboven beschreven).
+
+14. Wijzigingen
+Wij kunnen dit Privacybeleid bijwerken. De ingangsdatum wordt dan aangepast. Bij wezenlijke wijzigingen kunnen wij, indien praktisch mogelijk, aanvullende kennisgeving in de app geven.
+
+15. Contact
+Privacy en ondersteuning: support@bots5lab.com

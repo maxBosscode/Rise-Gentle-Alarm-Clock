@@ -1,0 +1,142 @@
+Personvernerklæring
+Rise
+Ikrafttredelsesdato: 15. september 2026
+
+1. Hvem vi er (behandlingsansvarlig)
+Peter Švorc («vi», «oss»), Slovakia, er behandlingsansvarlig for personopplysningene som behandles i forbindelse med Rise-appen.
+
+Kontakt for personvernforespørsler: support@bots5lab.com
+
+Vi publiserer ikke en postadresse i denne erklæringen. Du kan kontakte oss via e-post om alle personvernrelaterte spørsmål.
+
+2. Omfang
+Denne personvernerklæringen beskriver hvordan Rise håndterer informasjon når du bruker iOS-appen. Den gjelder sammen med våre bruksvilkår.
+
+3. Hva Rise er
+Rise er en app for oppvåkning og morgenrutiner (alarmer, valgfrie lydbilder, valgfri lysoppvåkning, utfordringer, innsikt, widgets, Live Activities og valgfrie premiumkjøp).
+
+4. Data vi behandler
+A. Data som lagres på enheten din (lastes generelt ikke opp til serverne våre)
+Avhengig av hva du oppgir og bruker:
+
+navn / visningsnavn
+alder (hvis oppgitt)
+alarm- og leggetidsinnstillinger, gjentakelsesdager, lydpreferanser og utfordringsinnstillinger
+preferanse for lysoppvåkning
+notater (f.eks. notater for «i morgen»)
+svar under onboarding (f.eks. søvnlengde og hvordan du føler deg når du våkner)
+lokal historikk over oppvåkning, streaks og lignende innsiktsdata
+appinnstillinger (utseende, fullførte veiledninger, paywall-/anmeldelsesmarkeringer)
+kjøpsrelaterte markeringer som lagres lokalt når det er nødvendig for appens funksjon
+Disse dataene lagres lokalt (inkludert i en App Group slik at widgets/utvidelser kan lese det de trenger). Vi krever ikke en Rise-konto.
+
+B. Analytics vi sender til serverne våre
+Vi samler inn anonym produktanalyse for å forstå hvordan Rise brukes og forbedre appen.
+
+Dette omfatter vanligvis:
+
+en tilfeldig enhets-ID (UUID generert på enheten)
+hendelsesnavn (f.eks. åpning av appen, onboarding-trinn, paywall-hendelser, alarm-/søvnhendelser og hendelser knyttet til forespørsler om anmeldelser)
+begrensede hendelsesegenskaper (f.eks. plantype, bryterstatus, rabattprosent og appversjon)
+tidsstempler
+Analytics sendes til Supabase-infrastruktur som er driftet i EU.
+
+Vi utformer analytics slik at de ikke inkluderer navnet ditt, teksten i notater for i morgen eller nøyaktig GPS-posisjon.
+
+C. Kjøp
+Kjøp behandles av Apple. Vi bruker RevenueCat for å hjelpe med å verifisere tilgangsrettigheter (abonnement / livstidsadgang / prøveperiode).
+
+Vi mottar ikke hele betalingskortnummeret ditt. Apple kan behandle identifikatorer knyttet til Apple-ID-en din og kjøpshistorikken din i henhold til Apples personvernerklæring.
+
+D. Data knyttet til tillatelser (enhetens operativsystem)
+Med din tillatelse kan systemet la Rise bruke:
+
+Varslinger — planlegge lokale varsler
+Kamera — kun lommelykten for lysoppvåkning (ingen opplasting av bilder/video)
+Mikrofon — brukes ikke som en sentral Rise-funksjon for datainnsamling
+Bakgrunnslyd — holde oppvåkningslyd i gang
+Live Activities — vise søvn-/oppvåkningsstatus i systemgrensesnittet
+eventuelle systemalarmfunksjoner dersom de er tilgjengelige
+Selve tillatelsesstatusen kan kontrolleres på enheten for å kunne bruke funksjonene.
+
+E. Hva vi ikke gjør
+Vi selger ikke personopplysningene dine.
+Vi bruker ikke dataene dine til tredjeparts annonsenettverk.
+Vi krever ikke at du oppretter en Rise-konto med e-post/passord for grunnleggende bruk.
+
+5. Formål og behandlingsgrunnlag (GDPR)
+Der GDPR gjelder, behandler vi data for:
+
+Formål	Eksempler	Behandlingsgrunnlag
+Levere appen
+alarmer, innstillinger, widgets, Live Activities
+Avtale / tiltak på din forespørsel
+Forbedre produktet
+anonyme analytics-hendelser
+Berettigede interesser (produktforbedring) og/eller samtykke der det kreves
+Kjøp og tilgangskontroll
+låse opp premium, gjenopprette, kvalifisering for prøveperiode
+Avtale; berettigede interesser
+Support og juridiske krav
+svare på e-post, overholde loven
+Berettigede interesser / rettslig forpliktelse
+Sikkerhet og forebygging av misbruk
+holde tjenestene pålitelige
+Berettigede interesser
+Du kan trekke tilbake samtykket ditt når behandlingen er basert på samtykke, uten at dette påvirker lovligheten av behandlingen som fant sted før samtykket ble trukket tilbake.
+
+6. Barn
+Rise er beregnet på et generelt publikum. Vi samler ikke bevisst inn personopplysninger fra barn for kommersiell profilering.
+
+Hvis du mener at et barn har oppgitt data på en upassende måte, kontakt support@bots5lab.com. Vi vil ta rimelige skritt for å slette analytics knyttet til en enhets-ID som du hjelper oss med å identifisere.
+
+Foreldre/foresatte bør følge med på mindreåriges bruk og administrere Apples Skjermtid-/kjøpsinnstillinger etter behov.
+
+7. Deling / databehandlere
+Vi deler kun data når det er nødvendig med:
+
+Apple — App Store, betalinger, levering av push-/lokale varsler og OS-funksjoner
+RevenueCat — behandling av kjøp/tilgangsrettigheter
+Supabase — hosting i EU for analytics
+Disse leverandørene behandler data etter våre instrukser eller som selvstendige behandlingsansvarlige for sine egne plattformtjenester (særlig Apple).
+
+Vi selger ikke personopplysninger og deler dem ikke med annonsører for målrettet annonsering.
+
+8. Internasjonale overføringer
+Analytics hostes i EU. Apple/RevenueCat kan behandle data i andre land i henhold til sine vilkår og sikkerhetstiltak. Der det kreves, baseres overføringer på egnede mekanismer (f.eks. standard kontraktsklausuler) som brukes av disse leverandørene.
+
+9. Lagringstid
+Data på enheten: til du sletter dem i appen (der dette er tilgjengelig), sletter appdata eller avinstallerer Rise (med forbehold om OS-sikkerhetskopier du kontrollerer).
+Analytics-hendelser: lagres i en begrenset driftsperiode (rådata beholdes ikke på ubestemt tid; vi sikter mot omtrent 90 dager for detaljerte rådata om hendelser, med mindre vi oppgir noe annet).
+Aggregerte statistikker: vi kan beholde avidentifiserte eller aggregerte målinger (ikke knyttet til enhets-ID-en din) for å forstå langsiktige produkttrender.
+Kjøpsopplysninger: lagres så lenge det er nødvendig for tilgangsrettigheter, regnskap og juridiske forpliktelser (ofte via Apple/RevenueCat).
+10. Dine valg og rettigheter
+I appen
+Endre eller slette mange lokale innstillinger selv
+Innstillinger → Slett mine analytics-data — sletter analytics-hendelser knyttet til enhets-ID-en din fra våre analysetabeller (aggregerte totaler kan bli værende uten enhets-ID-en din)
+Administrere varsler, kamera og andre tillatelser i iOS-innstillingene
+Avslutte abonnementer i Apple-ID-innstillingene
+GDPR-rettigheter (EU/EØS/Storbritannia der det er relevant)
+Du kan, der det er aktuelt, be om innsyn, retting, sletting, begrensning, protestere mot behandling og dataportabilitet. Du kan også klage til din tilsynsmyndighet (i Slovakia: Úrad na ochranu osobných údajov SR).
+
+Fordi Rise i stor grad er local-first og analytics er basert på enhets-ID, kan vi be deg om informasjon som er nødvendig for å finne analytics-enhets-ID-en din.
+
+Kontakt: support@bots5lab.com
+
+«Do Not Sell»
+Vi selger ikke personopplysninger slik begrepet vanligvis brukes under CCPA/CPRA. Hvis dette endres, vil vi oppdatere denne erklæringen.
+
+11. Sikkerhet
+Vi bruker rimelige tekniske og organisatoriske tiltak som er hensiktsmessige for en liten forbrukerapp (inkludert begrensning av analytics-innhold og tilgangskontroller for infrastrukturen). Ingen metode for overføring eller lagring er 100 % sikker.
+
+12. Delingsfunksjoner
+Hvis du bruker delingsark (f.eks. Insights-bilder), deles innholdet av deg via Apples delingsgrensesnitt til destinasjonene du velger. Vi driver ikke disse destinasjonstjenestene.
+
+13. Widgets, App Group og Live Activities
+Data som trengs for widgets og Live Activities kan deles lokalt mellom hovedappen og utvidelser via Apples App Group-lagring. Dette forblir på enheten din med mindre en funksjon uttrykkelig sender data til serverne våre (analytics som beskrevet ovenfor).
+
+14. Endringer
+Vi kan oppdatere denne personvernerklæringen. Ikrafttredelsesdatoen vil bli oppdatert. Ved vesentlige endringer kan vi, når det er praktisk mulig, gi ytterligere varsel i appen.
+
+15. Kontakt
+Personvern og support: support@bots5lab.com

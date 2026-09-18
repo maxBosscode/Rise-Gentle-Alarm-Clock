@@ -1,0 +1,142 @@
+Integritetspolicy
+Rise
+Ikraftträdandedatum: 15 september 2026
+
+1. Vilka vi är (personuppgiftsansvarig)
+Peter Švorc (”vi”, ”oss”), Slovakien, är personuppgiftsansvarig för de personuppgifter som behandlas i samband med Rise-appen.
+
+Kontakt för integritetsfrågor: support@bots5lab.com
+
+Vi publicerar ingen postadress i denna policy. Du kan kontakta oss via e-post i alla integritetsfrågor.
+
+2. Omfattning
+Denna integritetspolicy beskriver hur Rise hanterar information när du använder iOS-appen. Den gäller tillsammans med våra användarvillkor.
+
+3. Vad Rise är
+Rise är en app för uppvaknande och morgonrutiner (alarm, valfria ljudlandskap, valfritt ljusuppvaknande, utmaningar, insikter, widgets, Live Activities och valfria premiumköp).
+
+4. Uppgifter vi behandlar
+A. Uppgifter som lagras på din enhet (laddas i allmänhet inte upp till våra servrar)
+Beroende på vad du anger och använder:
+
+namn / visningsnamn
+ålder (om den anges)
+alarm- och läggdagstidsinställningar, upprepningsdagar, ljudinställningar och inställningar för utmaningar
+inställning för ljusuppvaknande
+anteckningar (t.ex. anteckningar för ”imorgon”)
+svar under onboarding (t.ex. sömnens längd, hur du känner dig när du vaknar)
+lokal historik över uppvaknanden, streaks och liknande insiktsdata
+appinställningar (utseende, slutförda handledningar, markeringar för paywall/recensionsförfrågningar)
+köprelaterade markeringar som lagras lokalt när det behövs för appens funktion
+Dessa uppgifter lagras lokalt (inklusive i en App Group så att widgets/tillägg kan läsa det de behöver). Vi kräver inget Rise-konto.
+
+B. Analysdata som vi skickar till våra servrar
+Vi samlar in anonym produktanalys för att förstå hur Rise används och förbättra appen.
+
+Det omfattar vanligtvis:
+
+en slumpmässig enhetsidentifierare (UUID som genereras på enheten)
+händelsenamn (t.ex. öppning av appen, onboardingsteg, paywall-händelser, alarm-/sömnhändelser och händelser för recensionsförfrågningar)
+begränsade händelseegenskaper (t.ex. plantyp, växlingsstatus, rabattprocent och appversion)
+tidsstämplar
+Analysdata skickas till Supabase-infrastruktur som finns i EU.
+
+Vi utformar analysdata så att den inte innehåller ditt namn, text från anteckningar för imorgon eller exakt GPS-position.
+
+C. Köp
+Köp behandlas av Apple. Vi använder RevenueCat för att hjälpa till att verifiera behörigheter (prenumeration / livstidsåtkomst / provperiod).
+
+Vi får inte ditt fullständiga betalkortsnummer. Apple kan behandla identifierare som är kopplade till ditt Apple-ID och din köphistorik enligt Apples integritetspolicy.
+
+D. Uppgifter relaterade till behörigheter (enhetens operativsystem)
+Med ditt tillstånd kan systemet låta Rise använda:
+
+Notiser — schemalägga lokala aviseringar
+Kamera — endast ficklampan för ljusuppvaknande (inga foton eller videor laddas upp)
+Mikrofon — används inte som en central funktion för Rise datainsamling
+Bakgrundsljud — hålla uppvakningsljud igång
+Live Activities — visa sömn-/uppvakningsstatus i systemets gränssnitt
+eventuella systemalarmfunktioner om de finns tillgängliga
+Själva behörighetsstatusen kan kontrolleras på enheten för att funktionerna ska fungera.
+
+E. Vad vi inte gör
+Vi säljer inte dina personuppgifter.
+Vi använder inte dina uppgifter för tredjepartsannonsnätverk.
+Vi kräver inte att du skapar ett Rise-konto med e-postadress/lösenord för kärnfunktionerna.
+
+5. Ändamål och rättsliga grunder (GDPR)
+Där GDPR gäller behandlar vi uppgifter för:
+
+Ändamål	Exempel	Rättslig grund
+Tillhandahålla appen
+alarm, inställningar, widgets, Live Activities
+Avtal / åtgärder på din begäran
+Förbättra produkten
+anonyma analysdata
+Berättigat intresse (produktförbättring) och/eller samtycke där det krävs
+Köp och åtkomstkontroll
+låsa upp premium, återställa, behörighet för provperiod
+Avtal; berättigat intresse
+Support och juridiska skyldigheter
+svara på e-post, följa lagen
+Berättigat intresse / rättslig skyldighet
+Säkerhet och förebyggande av missbruk
+hålla tjänsterna tillförlitliga
+Berättigat intresse
+Du kan återkalla ditt samtycke när behandlingen grundar sig på samtycke, utan att detta påverkar lagligheten av behandling som skett innan samtycket återkallades.
+
+6. Barn
+Rise är avsedd för en allmän målgrupp. Vi samlar inte medvetet in personuppgifter från barn för kommersiell profilering.
+
+Om du tror att ett barn har lämnat uppgifter på ett olämpligt sätt, kontakta support@bots5lab.com. Vi kommer att vidta rimliga åtgärder för att radera analysdata som är kopplad till ett enhets-ID som du hjälper oss att identifiera.
+
+Föräldrar/vårdnadshavare bör övervaka minderårigas användning och vid behov hantera Apples inställningar för Skärmtid och köp.
+
+7. Delning / personuppgiftsbiträden
+Vi delar endast uppgifter när det behövs med:
+
+Apple — App Store, betalningar, leverans av push-/lokala notiser och OS-funktioner
+RevenueCat — behandling av köp och behörigheter
+Supabase — hosting i EU för analysdata
+Dessa leverantörer behandlar uppgifter enligt våra instruktioner eller som självständigt personuppgiftsansvariga för sina egna plattformstjänster (särskilt Apple).
+
+Vi säljer inte personuppgifter och delar dem inte med annonsörer för riktad annonsering.
+
+8. Internationella överföringar
+Analysdata hostas i EU. Apple/RevenueCat kan behandla uppgifter i andra länder enligt sina villkor och skyddsåtgärder. Där det krävs baseras överföringar på lämpliga mekanismer (t.ex. standardavtalsklausuler) som används av dessa leverantörer.
+
+9. Lagringstid
+Uppgifter på enheten: tills du raderar dem i appen (där detta är möjligt), rensar appdata eller avinstallerar Rise (med förbehåll för OS-säkerhetskopior som du kontrollerar).
+Analysdata: sparas under en begränsad operativ period (rådata sparas inte obegränsat; vi strävar efter cirka 90 dagar för detaljerade rådata om händelser, om vi inte anger något annat).
+Aggregerad statistik: vi kan behålla avidentifierade eller aggregerade mätvärden (inte kopplade till ditt enhets-ID) för att förstå långsiktiga produkttrender.
+Köpdata: sparas så länge det behövs för behörigheter, bokföring och rättsliga skyldigheter (ofta via Apple/RevenueCat).
+10. Dina val och rättigheter
+I appen
+Ändra eller radera många lokala inställningar själv
+Inställningar → Ta bort mina analysdata — raderar analysdata som är kopplad till ditt enhets-ID från våra analystabeller (aggregerade totalsummor kan finnas kvar utan ditt enhets-ID)
+Hantera notiser, kamera och andra behörigheter i iOS-inställningarna
+Avsluta prenumerationer i Apple-ID-inställningarna
+GDPR-rättigheter (EU/EES/Storbritannien där tillämpligt)
+Du kan, där det är tillämpligt, begära tillgång, rättelse, radering, begränsning, invända mot behandling och dataportabilitet. Du kan även lämna in ett klagomål till din tillsynsmyndighet (i Slovakien: Úrad na ochranu osobných údajov SR).
+
+Eftersom Rise i stor utsträckning är local-first och analysdata baseras på enhets-ID kan vi be dig om information som behövs för att hitta ditt analys-enhets-ID.
+
+Kontakt: support@bots5lab.com
+
+”Sälj inte mina personuppgifter”
+Vi säljer inte personuppgifter såsom begreppet vanligtvis används enligt CCPA/CPRA. Om detta förändras kommer vi att uppdatera denna policy.
+
+11. Säkerhet
+Vi använder rimliga tekniska och organisatoriska åtgärder som är lämpliga för en liten konsumentapp (inklusive begränsning av analysinnehåll och åtkomstkontroller för infrastrukturen). Ingen metod för överföring eller lagring är 100 % säker.
+
+12. Delningsfunktioner
+Om du använder delningsark (t.ex. Insights-bilder) delas innehållet av dig via Apples delningsgränssnitt till de destinationer du väljer. Vi driver inte dessa destinationstjänster.
+
+13. Widgets, App Group och Live Activities
+Data som behövs för widgets och Live Activities kan delas lokalt mellan huvudappen och tillägg via Apples App Group-lagring. Detta stannar på din enhet om inte en funktion uttryckligen skickar data till våra servrar (analysdata enligt ovan).
+
+14. Ändringar
+Vi kan uppdatera denna integritetspolicy. Ikraftträdandedatumet kommer då att uppdateras. Vid väsentliga ändringar kan vi, när det är praktiskt möjligt, ge ytterligare information i appen.
+
+15. Kontakt
+Integritet och support: support@bots5lab.com
