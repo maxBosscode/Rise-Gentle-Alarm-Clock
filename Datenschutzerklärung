@@ -1,0 +1,142 @@
+Datenschutzerklärung
+Rise
+Gültig ab: 15. September 2026
+
+1. Wer wir sind (Verantwortlicher)
+Peter Švorc („wir“, „uns“), Slowakei, ist der Verantwortliche für die Verarbeitung personenbezogener Daten im Zusammenhang mit der Rise-App.
+
+Kontakt für Datenschutzanfragen: support@bots5lab.com
+
+Wir veröffentlichen in dieser Datenschutzerklärung keine Postanschrift. Bei Fragen zum Datenschutz können Sie uns per E-Mail kontaktieren.
+
+2. Geltungsbereich
+Diese Datenschutzerklärung beschreibt, wie Rise mit Informationen umgeht, wenn Sie die iOS-App verwenden. Sie gilt ergänzend zu unseren Nutzungsbedingungen.
+
+3. Was ist Rise?
+Rise ist eine App zum Aufwachen und für die Morgenroutine (Wecker, optionale Klanglandschaften, optionales sanftes Aufwachen mit Licht, Herausforderungen, Erkenntnisse, Widgets, Live Activities und optionale Premium-Käufe).
+
+4. Welche Daten wir verarbeiten
+A. Auf Ihrem Gerät gespeicherte Daten (grundsätzlich nicht auf unsere Server hochgeladen)
+Je nachdem, was Sie eingeben und verwenden:
+
+Name / Anzeigename
+Alter (falls angegeben)
+Wecker- und Schlafenszeiteinstellungen, Wiederholungstage, Klangeinstellungen
+Einstellungen für das Aufwachen mit Licht
+Notizen (z. B. „morgen“-Notizen)
+Antworten aus der Einrichtung (z. B. Schlafdauer, wie Sie sich beim Aufwachen fühlen)
+Lokaler Aufwachverlauf, Streaks und ähnliche Erkenntnisdaten
+App-Einstellungen (Erscheinungsbild, abgeschlossene Tutorials, Paywall-/Bewertungsflags)
+Kaufbezogene Flags, die für die Funktion der App lokal gespeichert werden
+Diese Daten werden lokal gespeichert (einschließlich in einer App Group, damit Widgets/Erweiterungen die benötigten Daten lesen können). Für Rise ist kein Konto erforderlich.
+
+B. Analytics, die wir an unsere Server senden
+Wir erfassen anonyme Produktanalysen, um zu verstehen, wie Rise verwendet wird, und um die App zu verbessern.
+
+Typischerweise umfassen diese:
+
+eine zufällige Gerätekennung (auf dem Gerät generierte UUID)
+Ereignisnamen (z. B. App-Öffnung, Einrichtungsschritte, Paywall-Ereignisse, Wecker-/Schlafereignisse, Ereignisse im Zusammenhang mit Bewertungsaufforderungen)
+begrenzte Ereigniseigenschaften (z. B. Plantyp, Schalterzustände, Rabattprozentsatz, App-Version)
+Zeitstempel
+Analytics werden an eine von Supabase in der EU gehostete Infrastruktur gesendet.
+
+Wir gestalten Analytics so, dass sie weder Ihren Namen, den Text Ihrer „Morgen“-Notizen noch Ihren genauen GPS-Standort enthalten.
+
+C. Käufe
+Käufe werden von Apple verarbeitet. Wir verwenden RevenueCat, um die Berechtigungen (Abonnement-/Lifetime-/Teststatus) zu überprüfen.
+
+Wir erhalten nicht Ihre vollständige Kreditkartennummer. Apple kann Kennungen im Zusammenhang mit Ihrer Apple-ID und Ihrer Kaufhistorie gemäß der Datenschutzrichtlinie von Apple verarbeiten.
+
+D. Berechtigungsbezogene Daten (Gerätebetriebssystem)
+Mit Ihrer Erlaubnis kann das System Rise die folgenden Funktionen ermöglichen:
+
+Mitteilungen — lokale Benachrichtigungen planen
+Kamera — ausschließlich die Taschenlampe für das Aufwachen mit Licht verwenden (keine Übertragung von Fotos/Videos)
+Mikrofon — wird nicht als zentrale Funktion zur Datenerfassung von Rise verwendet
+Hintergrundaudio — Weckaudio weiterlaufen lassen
+Live Activities — Schlaf-/Aufwachstatus in der Systemoberfläche anzeigen
+optionale System-Weckerfunktionen, sofern verfügbar
+Der Status von Berechtigungen kann auf dem Gerät überprüft werden, um Funktionen bereitzustellen.
+
+E. Was wir nicht tun
+Wir verkaufen Ihre personenbezogenen Daten nicht.
+Wir verwenden Ihre Daten nicht für Werbenetzwerke Dritter.
+Für die grundlegende Nutzung müssen Sie kein Rise-Konto mit E-Mail und Passwort erstellen.
+
+5. Zwecke und Rechtsgrundlagen (DSGVO)
+Soweit die DSGVO Anwendung findet, verarbeiten wir Daten für:
+
+Zweck	Beispiele	Rechtsgrundlage
+Bereitstellung der App
+Wecker, Einstellungen, Widgets, Live Activities
+Vertrag / von Ihnen angeforderte Schritte
+Verbesserung des Produkts
+anonyme Analytics-Ereignisse
+Berechtigte Interessen (Produktverbesserung) und/oder Einwilligung, sofern erforderlich
+Käufe & Zugriffskontrolle
+Premium freischalten, Käufe wiederherstellen, Testberechtigung
+Vertrag; berechtigte Interessen
+Support & rechtliche Verpflichtungen
+Beantwortung von E-Mails, Einhaltung gesetzlicher Vorgaben
+Berechtigte Interessen / rechtliche Verpflichtung
+Sicherheit & Missbrauchsprävention
+zuverlässiger Betrieb der Dienste
+Berechtigte Interessen
+Sie können eine Einwilligung jederzeit widerrufen, sofern die Verarbeitung auf einer Einwilligung beruht, ohne dass die Rechtmäßigkeit der zuvor auf Grundlage der Einwilligung erfolgten Verarbeitung berührt wird.
+
+6. Kinder
+Rise richtet sich an ein allgemeines Publikum. Wir erfassen wissentlich keine personenbezogenen Daten von Kindern zum Zweck kommerzieller Profilbildung.
+
+Wenn Sie glauben, dass ein Kind unangemessen Daten bereitgestellt hat, kontaktieren Sie uns unter support@bots5lab.com. Wir werden angemessene Schritte unternehmen, um mit einer Gerätekennung verknüpfte Analytics zu löschen, sofern Sie uns dabei helfen, die betreffende Gerätekennung zu identifizieren.
+
+Eltern bzw. Erziehungsberechtigte sollten die Nutzung durch Minderjährige beaufsichtigen und die Apple-Einstellungen für Bildschirmzeit und Käufe entsprechend verwalten.
+
+7. Weitergabe / Auftragsverarbeiter
+Wir geben Daten nur weiter, soweit dies erforderlich ist, an:
+
+Apple — App Store, Zahlungen, Zustellung von Push-/lokalen Benachrichtigungen und Betriebssystemfunktionen
+RevenueCat — Verarbeitung von Käufen und Berechtigungen
+Supabase — Hosting der Analytics in der EU
+Diese Anbieter verarbeiten Daten entweder auf unsere Weisung oder als eigenständige Verantwortliche für ihre eigenen Plattformdienste (insbesondere Apple).
+
+Wir verkaufen keine personenbezogenen Daten und geben sie nicht an Werbetreibende für zielgerichtete Werbung weiter.
+
+8. Internationale Übermittlungen
+Analytics werden in der EU gehostet. Apple/RevenueCat können Daten gemäß ihren Bedingungen und den vorgesehenen Schutzmaßnahmen in anderen Ländern verarbeiten. Soweit erforderlich, beruhen Übermittlungen auf geeigneten Mechanismen (z. B. Standardvertragsklauseln), die von diesen Anbietern verwendet werden.
+
+9. Speicherdauer
+Auf dem Gerät gespeicherte Daten: bis Sie diese in der App löschen (sofern verfügbar), App-Daten löschen oder Rise deinstallieren (vorbehaltlich von OS-Backups, die Sie selbst kontrollieren).
+Analytics-Ereignisse: werden für einen begrenzten betrieblichen Zeitraum gespeichert (Rohdaten werden nicht unbegrenzt aufbewahrt; wir streben eine Aufbewahrung detaillierter Rohdaten von etwa 90 Tagen an, sofern wir nichts anderes angeben).
+Aggregierte Statistiken: Wir können de-identifizierte oder aggregierte Kennzahlen aufbewahren, die nicht mit Ihrer Gerätekennung verknüpft sind, um langfristige Produkttrends zu verstehen.
+Kaufdaten: werden so lange aufbewahrt, wie dies für Berechtigungen, Buchhaltung und gesetzliche Verpflichtungen erforderlich ist (häufig über Apple/RevenueCat).
+10. Ihre Wahlmöglichkeiten und Rechte
+In der App
+Viele lokale Einstellungen selbst ändern oder löschen
+Einstellungen → Meine Analytics-Daten entfernen — löscht mit Ihrer Gerätekennung verbundene Analytics-Ereignisse aus unseren Analytics-Tabellen (aggregierte Gesamtwerte können ohne Ihre Gerätekennung erhalten bleiben)
+Mitteilungen, Kamera und andere Berechtigungen in den iOS-Einstellungen verwalten
+Abonnements in den Apple-ID-Einstellungen kündigen
+DSGVO-Rechte (EU/EWR/Vereinigtes Königreich, soweit anwendbar)
+Sie können, soweit anwendbar, Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch und Datenübertragbarkeit verlangen. Außerdem können Sie eine Beschwerde bei Ihrer zuständigen Datenschutzaufsichtsbehörde einreichen (in der Slowakei beim Úrad na ochranu osobných údajov SR).
+
+Da Rise weitgehend lokal arbeitet und Analytics auf einer Gerätekennung basieren, können wir Sie um Informationen bitten, die erforderlich sind, um Ihre Analytics-Gerätekennung zu finden.
+
+Kontakt: support@bots5lab.com
+
+„Do Not Sell“
+Wir verkaufen keine personenbezogenen Daten im Sinne, wie dieser Begriff üblicherweise unter CCPA/CPRA verwendet wird. Sollte sich dies ändern, werden wir diese Datenschutzerklärung aktualisieren.
+
+11. Sicherheit
+Wir verwenden angemessene technische und organisatorische Maßnahmen, die für eine kleine Verbraucher-App geeignet sind (einschließlich der Begrenzung des Inhalts von Analytics und Zugriffskontrollen für die Infrastruktur). Keine Methode der Übertragung oder Speicherung ist zu 100 % sicher.
+
+12. Teilen-Funktionen
+Wenn Sie Teilen-Funktionen verwenden (z. B. Bilder aus Insights), werden die Inhalte von Ihnen über die Apple-Teilen-Oberfläche an die von Ihnen ausgewählten Ziele geteilt. Wir betreiben diese Ziel-Dienste nicht.
+
+13. Widgets, App Group, Live Activities
+Für Widgets und Live Activities benötigte Daten können auf dem Gerät über den Apple App Group-Speicher zwischen der Haupt-App und Erweiterungen geteilt werden. Diese Daten verbleiben auf Ihrem Gerät, sofern eine Funktion nicht ausdrücklich Daten an unsere Server sendet (Analytics wie oben beschrieben).
+
+14. Änderungen
+Wir können diese Datenschutzerklärung aktualisieren. Das Gültigkeitsdatum wird entsprechend aktualisiert. Bei wesentlichen Änderungen können wir, soweit praktisch möglich, zusätzliche Hinweise innerhalb der App bereitstellen.
+
+15. Kontakt
+Datenschutz und Support: support@bots5lab.com
