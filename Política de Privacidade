@@ -1,0 +1,142 @@
+Política de Privacidade
+Rise
+Data de vigência: 15 de setembro de 2026
+
+1. Quem somos (controlador)
+Peter Švorc (“nós”), Eslováquia, é o controlador dos dados pessoais tratados em conexão com o aplicativo Rise.
+
+Contato para solicitações relacionadas à privacidade: support@bots5lab.com
+
+Não publicamos um endereço postal nesta Política. Você pode entrar em contato conosco por e-mail para qualquer questão relacionada à privacidade.
+
+2. Escopo
+Esta Política descreve como o Rise trata informações quando você utiliza o aplicativo para iOS. Ela se aplica juntamente com nossos Termos de Uso.
+
+3. O que é o Rise
+Rise é um aplicativo de despertador e rotina matinal (alarmes, paisagens sonoras opcionais, despertar com luz opcional, desafios, insights, widgets, Live Activities e compras Premium opcionais).
+
+4. Dados que tratamos
+A. Dados armazenados no seu dispositivo (geralmente não enviados aos nossos servidores)
+Dependendo do que você inserir e utilizar:
+
+nome / nome de exibição
+idade (se fornecida)
+configurações de alarme e horário de dormir, dias de repetição e preferências de som
+preferência de despertar com luz
+notas (por exemplo, notas de “amanhã”)
+respostas da configuração inicial (por exemplo, duração do sono e como você se sente ao acordar)
+histórico local de despertar, sequências e dados semelhantes de insights
+preferências do aplicativo (aparência, tutoriais concluídos, indicadores relacionados ao paywall/solicitações de avaliação)
+indicadores relacionados a compras armazenados localmente quando necessários para o funcionamento do aplicativo
+Esses dados são armazenados localmente (inclusive em um App Group para que widgets/extensões possam acessar o que for necessário). Não exigimos uma conta do Rise.
+
+B. Dados analíticos que enviamos aos nossos servidores
+Coletamos dados analíticos anônimos do produto para entender como o Rise é utilizado e melhorar o aplicativo.
+
+Normalmente, isso inclui:
+
+um identificador aleatório do dispositivo (UUID gerado no dispositivo)
+nomes de eventos (por exemplo: abertura do aplicativo, etapas de configuração, eventos do paywall, eventos de alarme/sono e eventos relacionados a solicitações de avaliação)
+propriedades limitadas dos eventos (por exemplo, tipo de plano, estados de alternância, percentual de desconto e versão do aplicativo)
+registros de data e hora
+Os dados analíticos são enviados para uma infraestrutura da Supabase hospedada na UE.
+
+Projetamos os dados analíticos para que não incluam seu nome, o texto das suas notas de “amanhã” ou sua localização GPS precisa.
+
+C. Compras
+As compras são processadas pela Apple. Utilizamos a RevenueCat para ajudar a verificar direitos de acesso (status de assinatura / compra vitalícia / período de teste).
+
+Não recebemos o número completo do seu cartão de pagamento. A Apple pode processar identificadores relacionados ao seu Apple ID e ao seu histórico de compras de acordo com a política de privacidade da Apple.
+
+D. Dados relacionados a permissões (sistema operacional)
+Com sua permissão, o sistema pode permitir que o Rise utilize:
+
+Notificações — programar alertas locais
+Câmera — somente a lanterna para o despertar com luz (não utilizada para enviar fotos/vídeos)
+Microfone — não utilizado como recurso principal de coleta de dados do Rise
+Áudio em segundo plano — manter o áudio de despertar em execução
+Live Activities — exibir o status de sono/despertar na interface do sistema
+recursos opcionais de alarme do sistema, se disponíveis
+O status das permissões pode ser verificado no dispositivo para operar os recursos.
+
+E. O que não fazemos
+Não vendemos seus dados pessoais.
+Não utilizamos seus dados para redes de publicidade de terceiros.
+Não exigimos que você crie uma conta do Rise com e-mail e senha para usar os recursos principais.
+
+5. Finalidades e bases legais (LGPD/GDPR)
+Quando aplicável, tratamos os dados para:
+
+Finalidade	Exemplos	Base legal
+Fornecer o aplicativo
+alarmes, configurações, widgets, Live Activities
+Contrato / ações solicitadas por você
+Melhorar o produto
+eventos analíticos anônimos
+Legítimo interesse (melhoria do produto) e/ou consentimento quando exigido
+Compras e controle de acesso
+desbloquear Premium, restaurar compras, elegibilidade para teste
+Contrato; legítimo interesse
+Suporte e obrigações legais
+responder a e-mails, cumprir a lei
+Legítimo interesse / obrigação legal
+Segurança e prevenção de abuso
+manter os serviços confiáveis
+Legítimo interesse
+Você pode retirar seu consentimento quando o tratamento se basear nele, sem afetar a legalidade do tratamento realizado antes da retirada.
+
+6. Crianças
+Rise é destinado ao público geral. Não coletamos conscientemente dados pessoais de crianças para fins de criação de perfis comerciais.
+
+Se você acredita que uma criança forneceu dados de forma inadequada, entre em contato conosco pelo endereço support@bots5lab.com. Tomaremos medidas razoáveis para excluir os dados analíticos associados a um ID de dispositivo que você nos ajude a identificar.
+
+Pais/responsáveis devem supervisionar o uso por menores e gerenciar as configurações de Tempo de Uso e compras da Apple conforme apropriado.
+
+7. Compartilhamento / operadores
+Compartilhamos dados apenas quando necessário com:
+
+Apple — App Store, pagamentos, entrega de notificações push/locais e recursos do sistema operacional
+RevenueCat — processamento de compras e direitos de acesso
+Supabase — hospedagem de dados analíticos na UE
+Esses provedores tratam os dados de acordo com nossas instruções ou como controladores independentes para seus próprios serviços de plataforma (especialmente a Apple).
+
+Não vendemos dados pessoais nem os compartilhamos com anunciantes para publicidade direcionada.
+
+8. Transferências internacionais
+Os dados analíticos são hospedados na UE. A Apple/RevenueCat pode processar dados em outros países de acordo com seus termos e salvaguardas. Quando exigido, as transferências utilizam mecanismos apropriados (por exemplo, Cláusulas Contratuais Padrão) utilizados por esses provedores.
+
+9. Retenção
+Dados no dispositivo: até que você os exclua no aplicativo (quando disponível), apague os dados do aplicativo ou desinstale o Rise (sujeito aos backups do sistema que você controla).
+Eventos analíticos: mantidos por um período operacional limitado (eventos brutos não são mantidos indefinidamente; nosso objetivo é manter aproximadamente 90 dias de detalhes dos eventos brutos, salvo indicação em contrário).
+Estatísticas agregadas: podemos manter métricas desidentificadas ou agregadas (não vinculadas ao seu ID de dispositivo) para compreender tendências de longo prazo do produto.
+Registros de compras: mantidos conforme necessário para direitos de acesso, contabilidade e obrigações legais (frequentemente por meio da Apple/RevenueCat).
+10. Suas escolhas e direitos
+No aplicativo
+Alterar ou excluir muitas configurações locais por conta própria
+Configurações → Excluir meus dados analíticos — exclui das nossas tabelas analíticas os eventos associados ao seu ID de dispositivo (totais agregados podem permanecer sem seu ID de dispositivo)
+Gerenciar notificações, câmera e outras permissões nos Ajustes do iOS
+Cancelar assinaturas nas configurações do seu Apple ID
+Direitos previstos pelo GDPR/LGPD (quando aplicável)
+Você pode solicitar, quando aplicável, acesso, correção, exclusão, restrição do tratamento, oposição e portabilidade. Você também pode apresentar uma reclamação à autoridade de proteção de dados competente.
+
+Como o Rise funciona em grande parte localmente e os dados analíticos são baseados em um ID de dispositivo, podemos solicitar informações necessárias para localizar o ID de dispositivo associado aos seus dados analíticos.
+
+Contato: support@bots5lab.com
+
+“Do Not Sell”
+Não vendemos informações pessoais no sentido comumente utilizado nos termos da CCPA/CPRA. Se isso mudar, atualizaremos esta Política.
+
+11. Segurança
+Utilizamos medidas técnicas e organizacionais razoáveis e apropriadas para um pequeno aplicativo de consumo (incluindo a limitação do conteúdo dos dados analíticos e controles de acesso à infraestrutura). Nenhum método de transmissão ou armazenamento é 100% seguro.
+
+12. Recursos de compartilhamento
+Se você utilizar folhas de compartilhamento (por exemplo, imagens de Insights), o conteúdo será compartilhado por você através da interface de compartilhamento da Apple com os destinos que escolher. Não operamos esses serviços de destino.
+
+13. Widgets, App Group, Live Activities
+Os dados necessários para widgets e Live Activities podem ser compartilhados no dispositivo entre o aplicativo principal e as extensões por meio do armazenamento do Apple App Group. Esses dados permanecem no seu dispositivo, a menos que um recurso envie explicitamente dados aos nossos servidores (dados analíticos conforme descrito acima).
+
+14. Alterações
+Podemos atualizar esta Política de Privacidade. A data de vigência será atualizada. Para alterações relevantes, podemos fornecer um aviso adicional no aplicativo quando for possível.
+
+15. Contato
+Privacidade e suporte: support@bots5lab.com
