@@ -1,6 +1,6 @@
 Privatlivspolitik
 Rise
-Ikrafttrædelsesdato: 15. september 2026
+Ikrafttrædelsesdato: 24. oktober 2026
 
 1. Hvem vi er (dataansvarlig)
 Peter Švorc (“vi”, “os”), Slovakiet, er dataansvarlig for de personoplysninger, der behandles i forbindelse med Rise-appen.
@@ -13,7 +13,7 @@ Vi offentliggør ikke en postadresse i denne politik. Du kan kontakte os via e-m
 Denne privatlivspolitik beskriver, hvordan Rise håndterer oplysninger, når du bruger iOS-appen. Den gælder sammen med vores Brugsvilkår.
 
 3. Hvad Rise er
-Rise er en app til opvågning og morgenrutiner (alarmer, valgfri lyd, valgfri lysopvågning, udfordringer, indsigt, widgets, Live Activities og valgfrie premiumkøb).
+Rise er en app til opvågning og morgenrutiner (alarmer, lyd, valgfri lysopvågning, udfordringer, indsigt, widgets og Live Activities). Denne version er gratis og indeholder ikke køb i appen.
 
 4. Data, vi behandler
 A. Data, der gemmes på din enhed (uploades generelt ikke til vores servere)
@@ -26,35 +26,32 @@ præference for lysopvågning
 noter (f.eks. noter til “i morgen”)
 svar under onboarding (f.eks. søvnlængde og hvordan du har det, når du vågner)
 lokal historik over opvågninger, streaks og lignende indsigtdata
-appindstillinger (udseende, gennemførte vejledninger, paywall-/anmeldelsesmarkeringer)
-købsrelaterede markeringer, der gemmes lokalt efter behov for appens funktion
+appindstillinger (udseende, gennemførte vejledninger, anmeldelsesmarkeringer)
 Disse data gemmes lokalt (herunder i en App Group, så widgets/udvidelser kan læse de nødvendige data). Vi kræver ikke en Rise-konto.
 
 B. Analytics, som vi sender til vores servere
 Vi indsamler anonym produktanalyse for at forstå, hvordan Rise bruges, og for at forbedre appen.
+Analytics indsamles kun, efter at du har accepteret Brugsvilkårene og Privatlivspolitikken i appen, og kun på produktionsinstallationer fra App Store (ikke TestFlight / Xcode). Du kan til enhver tid slå indsamlingen fra under Indstillinger → Del anonyme analytics.
 
 Dette omfatter typisk:
 
 en tilfældig enhedsidentifikator (UUID genereret på enheden)
-hændelsesnavne (f.eks. åbning af appen, onboardingtrin, paywall-hændelser, alarm-/søvnhændelser og hændelser vedrørende anmodninger om anmeldelser)
-begrænsede hændelsesegenskaber (f.eks. plantype, kontaktstatus, rabatprocent og appversion)
+hændelsesnavne (f.eks. åbning af appen, onboardingtrin, alarm-/søvnhændelser og hændelser vedrørende anmodninger om anmeldelser)
+begrænsede hændelsesegenskaber (f.eks. kontaktstatus og appversion)
 tidsstempler
 Analytics sendes til Supabase-infrastruktur, der hostes i EU.
 
 Vi designer analytics, så de ikke indeholder dit navn, teksten i dine noter til i morgen eller din præcise GPS-position.
 
 C. Køb
-Køb behandles af Apple. Vi bruger RevenueCat til at hjælpe med at verificere adgangsrettigheder (abonnement / livstidsadgang / prøveperiode).
-
-Vi modtager ikke dit fulde betalingskortnummer. Apple kan behandle identifikatorer relateret til dit Apple ID og din købshistorik i henhold til Apples privatlivspolitik.
+Denne version af Rise tilbyder ikke køb i appen. Vi behandler hverken betalinger eller købshistorik via appen.
 
 D. Data relateret til tilladelser (enhedens operativsystem)
 Med din tilladelse kan systemet give Rise adgang til:
 
 Notifikationer — planlægge lokale notifikationer
 Kamera — kun lommelygten til lysopvågning (ingen upload af fotos/video)
-Mikrofon — bruges ikke som en central Rise-funktion til dataindsamling
-Baggrundslyd — holde opvågningslyd kørende
+Baggrundslyd — afspille hørbar opvågningsambiance under gradvis opvågning (mikrofonen bruges aldrig; Rise optager ikke lyd)
 Live Activities — vise søvn-/opvågningsstatus i systemets brugerflade
 eventuelle systemalarmfunktioner, hvis de er tilgængelige
 Selve tilladelsesstatussen kan kontrolleres på enheden for at få funktionerne til at fungere.
@@ -74,9 +71,6 @@ Aftale / handlinger efter din anmodning
 Forbedre produktet
 anonyme analytics-hændelser
 Legitime interesser (produktforbedring) og/eller samtykke, hvor det kræves
-Køb og adgangskontrol
-låse premium op, gendannelse, berettigelse til prøveperiode
-Aftale; legitime interesser
 Support og juridiske forhold
 besvare e-mails, overholde lovgivningen
 Legitime interesser / retlig forpligtelse
@@ -90,32 +84,30 @@ Rise er beregnet til et generelt publikum. Vi indsamler ikke bevidst personoplys
 
 Hvis du mener, at et barn har afgivet oplysninger på en uhensigtsmæssig måde, skal du kontakte support@bots5lab.com. Vi vil træffe rimelige foranstaltninger for at slette analytics, der er knyttet til et enheds-ID, som du hjælper os med at identificere.
 
-Forældre/værger bør føre tilsyn med mindreåriges brug og administrere Apples indstillinger for Skærmtid/køb efter behov.
+Forældre/værger bør føre tilsyn med mindreåriges brug og administrere Apples indstillinger for Skærmtid efter behov.
 
 7. Deling / databehandlere
 Vi deler kun data, når det er nødvendigt, med:
 
-Apple — App Store, betalinger, levering af push-/lokale notifikationer og OS-funktioner
-RevenueCat — behandling af køb/adgangsrettigheder
+Apple — App Store, levering af push-/lokale notifikationer og OS-funktioner
 Supabase — hosting i EU til analytics
 Disse udbydere behandler data efter vores instruktioner eller som selvstændige dataansvarlige for deres egne platformstjenester (især Apple).
 
 Vi sælger ikke personoplysninger og deler dem ikke med annoncører til målrettede annoncer.
 
 8. Internationale dataoverførsler
-Analytics hostes i EU. Apple/RevenueCat kan behandle data i andre lande i henhold til deres vilkår og sikkerhedsforanstaltninger. Hvor det kræves, er overførsler baseret på passende mekanismer (f.eks. standardkontraktbestemmelser), som anvendes af disse udbydere.
+Analytics hostes i EU. Apple kan behandle data i andre lande i henhold til deres vilkår og sikkerhedsforanstaltninger. Hvor det kræves, er overførsler baseret på passende mekanismer (f.eks. standardkontraktbestemmelser), som anvendes af disse udbydere.
 
 9. Opbevaring
 Data på enheden: indtil du sletter dem i appen (hvor dette er muligt), rydder appdata eller afinstallerer Rise (med forbehold for OS-sikkerhedskopier, som du kontrollerer).
 Analytics-hændelser: opbevares i en begrænset driftsperiode (rå hændelsesdata opbevares ikke på ubestemt tid; vi sigter mod cirka 90 dage for detaljerede rådata, medmindre vi angiver andet).
 Aggregerede statistikker: vi kan opbevare afidentificerede eller aggregerede målinger (ikke knyttet til dit enheds-ID) for at forstå langsigtede produkttrends.
-Købsoplysninger: opbevares så længe det er nødvendigt af hensyn til adgangsrettigheder, regnskab og juridiske forpligtelser (ofte via Apple/RevenueCat).
 10. Dine valg og rettigheder
 I appen
 Ændre eller slette mange lokale indstillinger selv
 Indstillinger → Slet mine analyticsdata — sletter analytics-hændelser, der er knyttet til dit enheds-ID, fra vores analysetabeller (aggregerede totaler kan forblive uden dit enheds-ID)
+Indstillinger → Del anonyme analytics — slå fra for at stoppe fremtidig indsamling
 Administrere notifikationer, kamera og andre tilladelser i iOS-indstillingerne
-Opsige abonnementer i Apple ID-indstillingerne
 GDPR-rettigheder (EU/EØS/Storbritannien, hvor det er relevant)
 Du kan, hvor det er relevant, anmode om indsigt, berigtigelse, sletning, begrænsning, gøre indsigelse og dataportabilitet. Du kan også indgive en klage til din tilsynsmyndighed (i Slovakiet: Úrad na ochranu osobných údajov SR).
 

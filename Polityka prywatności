@@ -1,6 +1,6 @@
 Polityka prywatności
 Rise
-Data wejścia w życie: 15 września 2026 r.
+Data wejścia w życie: 24 października 2026 r.
 
 1. Kim jesteśmy (administrator danych)
 Peter Švorc („my”, „nas”), Słowacja, jest administratorem danych osobowych przetwarzanych w związku z aplikacją Rise.
@@ -13,7 +13,7 @@ W niniejszej Polityce prywatności nie publikujemy adresu pocztowego. We wszystk
 Niniejsza Polityka prywatności opisuje sposób, w jaki Rise przetwarza informacje podczas korzystania z aplikacji na iOS. Obowiązuje ona wraz z naszym Regulaminem korzystania z aplikacji.
 
 3. Czym jest Rise
-Rise to aplikacja do budzenia i porannej rutyny (alarmy, opcjonalne krajobrazy dźwiękowe, opcjonalne budzenie światłem, wyzwania, statystyki, widżety, Live Activities oraz opcjonalne zakupy premium).
+Rise to aplikacja do budzenia i porannej rutyny (alarmy, krajobrazy dźwiękowe, opcjonalne budzenie światłem, wyzwania, statystyki, widżety i Live Activities). Ta wersja jest bezpłatna i nie zawiera zakupów w aplikacji.
 
 4. Dane, które przetwarzamy
 A. Dane przechowywane na Twoim urządzeniu (zazwyczaj nie są przesyłane na nasze serwery)
@@ -26,35 +26,32 @@ preferencje dotyczące budzenia światłem
 notatki (np. notatki dotyczące „jutra”)
 odpowiedzi udzielone podczas konfiguracji aplikacji (np. długość snu, samopoczucie po przebudzeniu)
 lokalna historia budzenia, serie (streaks) i podobne dane dotyczące statystyk
-ustawienia aplikacji (wygląd, ukończone samouczki, oznaczenia paywall/monitów o recenzję)
-informacje związane z zakupami przechowywane lokalnie w zakresie niezbędnym do działania aplikacji
+ustawienia aplikacji (wygląd, ukończone samouczki, oznaczenia monitów o recenzję)
 Dane te są przechowywane lokalnie (w tym w App Group, aby widżety/rozszerzenia mogły odczytywać potrzebne informacje). Nie wymagamy utworzenia konta Rise.
 
 B. Dane analityczne wysyłane na nasze serwery
 Zbieramy anonimowe dane analityczne dotyczące produktu, aby zrozumieć sposób korzystania z Rise i ulepszać aplikację.
+Dane analityczne są zbierane dopiero po zaakceptowaniu Regulaminu i Polityki prywatności w aplikacji oraz wyłącznie w produkcyjnych instalacjach z App Store (nie TestFlight / Xcode). Możesz wyłączyć zbieranie w dowolnym momencie w Ustawienia → Udostępniaj anonimowe dane analityczne.
 
 Zazwyczaj obejmują one:
 
 losowy identyfikator urządzenia (UUID generowany na urządzeniu)
-nazwy zdarzeń (np. otwarcie aplikacji, etapy konfiguracji, zdarzenia paywall, zdarzenia alarmu/snu, zdarzenia związane z prośbami o recenzję)
-ograniczone właściwości zdarzeń (np. typ planu, stany przełączników, procent rabatu, wersja aplikacji)
+nazwy zdarzeń (np. otwarcie aplikacji, etapy konfiguracji, zdarzenia alarmu/snu, zdarzenia związane z prośbami o recenzję)
+ograniczone właściwości zdarzeń (np. stany przełączników, wersja aplikacji)
 znaczniki czasu
 Dane analityczne są przesyłane do infrastruktury Supabase hostowanej w UE.
 
 Projektujemy analitykę w taki sposób, aby nie zawierała Twojego imienia, treści notatek dotyczących jutra ani dokładnej lokalizacji GPS.
 
 C. Zakupy
-Zakupy są przetwarzane przez Apple. Korzystamy z RevenueCat w celu pomocy w weryfikacji uprawnień (subskrypcja / dostęp dożywotni / status okresu próbnego).
-
-Nie otrzymujemy pełnego numeru Twojej karty płatniczej. Apple może przetwarzać identyfikatory związane z Twoim Apple ID i historią zakupów zgodnie z polityką prywatności Apple.
+Ta wersja Rise nie oferuje zakupów w aplikacji. Nie przetwarzamy płatności ani historii zakupów za pośrednictwem aplikacji.
 
 D. Dane związane z uprawnieniami (system operacyjny urządzenia)
 Za Twoją zgodą system może umożliwić aplikacji Rise korzystanie z:
 
 Powiadomień — planowanie lokalnych alertów
 Aparatu — wyłącznie latarki do budzenia światłem (bez przesyłania zdjęć/wideo)
-Mikrofonu — nie jest używany jako podstawowa funkcja gromadzenia danych przez Rise
-Dźwięku w tle — utrzymywanie dźwięku budzenia
+Dźwięku w tle — odtwarzanie słyszalnej atmosfery budzenia podczas stopniowego budzenia (mikrofon nigdy nie jest używany; Rise nie nagrywa dźwięku)
 Live Activities — wyświetlanie statusu snu/budzenia w interfejsie systemowym
 opcjonalnych funkcji alarmu systemowego, jeśli są dostępne
 Stan uprawnień może być sprawdzany na urządzeniu w celu działania funkcji.
@@ -74,9 +71,6 @@ Umowa / działania podejmowane na Twoje żądanie
 Ulepszanie produktu
 anonimowe zdarzenia analityczne
 Prawnie uzasadniony interes (ulepszanie produktu) i/lub zgoda, gdy jest wymagana
-Zakupy i kontrola dostępu
-odblokowanie premium, przywracanie dostępu, kwalifikacja do okresu próbnego
-Umowa; prawnie uzasadniony interes
 Wsparcie i obowiązki prawne
 odpowiadanie na wiadomości e-mail, przestrzeganie prawa
 Prawnie uzasadniony interes / obowiązek prawny
@@ -90,32 +84,30 @@ Rise jest przeznaczona dla ogółu użytkowników. Nie zbieramy świadomie danyc
 
 Jeśli uważasz, że dziecko przekazało dane w niewłaściwy sposób, skontaktuj się z nami pod adresem support@bots5lab.com. Podejmiemy uzasadnione działania w celu usunięcia danych analitycznych powiązanych z identyfikatorem urządzenia, którego identyfikację pomożesz nam przeprowadzić.
 
-Rodzice/opiekunowie powinni nadzorować korzystanie z aplikacji przez osoby niepełnoletnie oraz, w razie potrzeby, zarządzać ustawieniami Czasu przed ekranem i zakupów Apple.
+Rodzice/opiekunowie powinni nadzorować korzystanie z aplikacji przez osoby niepełnoletnie oraz, w razie potrzeby, zarządzać ustawieniami Czasu przed ekranem Apple.
 
 7. Udostępnianie / podmioty przetwarzające
 Udostępniamy dane wyłącznie w niezbędnym zakresie:
 
-Apple — App Store, płatności, dostarczanie powiadomień push/lokalnych i funkcje systemu operacyjnego
-RevenueCat — przetwarzanie zakupów/uprawnień
+Apple — App Store, dostarczanie powiadomień push/lokalnych i funkcje systemu operacyjnego
 Supabase — hosting danych analitycznych w UE
 Dostawcy ci przetwarzają dane zgodnie z naszymi instrukcjami lub jako niezależni administratorzy w zakresie własnych usług platformowych (w szczególności Apple).
 
 Nie sprzedajemy danych osobowych ani nie udostępniamy ich reklamodawcom w celu kierowania reklam.
 
 8. Międzynarodowe przekazywanie danych
-Dane analityczne są hostowane w UE. Apple/RevenueCat mogą przetwarzać dane w innych krajach zgodnie ze swoimi warunkami i stosowanymi zabezpieczeniami. W przypadkach, w których jest to wymagane, przekazywanie danych odbywa się na podstawie odpowiednich mechanizmów (np. standardowych klauzul umownych) stosowanych przez tych dostawców.
+Dane analityczne są hostowane w UE. Apple może przetwarzać dane w innych krajach zgodnie ze swoimi warunkami i stosowanymi zabezpieczeniami. W przypadkach, w których jest to wymagane, przekazywanie danych odbywa się na podstawie odpowiednich mechanizmów (np. standardowych klauzul umownych) stosowanych przez tych dostawców.
 
 9. Okres przechowywania
 Dane na urządzeniu: do czasu ich usunięcia w aplikacji (jeśli taka możliwość jest dostępna), wyczyszczenia danych aplikacji lub odinstalowania Rise (z uwzględnieniem kopii zapasowych systemu operacyjnego, nad którymi masz kontrolę).
 Zdarzenia analityczne: przechowujemy przez ograniczony okres operacyjny (surowe zdarzenia nie są przechowywane bezterminowo; dążymy do około 90 dni przechowywania szczegółowych danych surowych, chyba że wskażemy inaczej).
 Zagregowane statystyki: możemy przechowywać zanonimizowane lub zagregowane dane (niepowiązane z Twoim identyfikatorem urządzenia) w celu zrozumienia długoterminowych trendów dotyczących produktu.
-Dane dotyczące zakupów: przechowujemy tak długo, jak jest to potrzebne do obsługi uprawnień, księgowości i obowiązków prawnych (często za pośrednictwem Apple/RevenueCat).
 10. Twoje wybory i prawa
 W aplikacji
 Samodzielnie zmieniać lub usuwać wiele lokalnych ustawień
 Ustawienia → Usuń moje dane analityczne — usuwa zdarzenia analityczne powiązane z Twoim identyfikatorem urządzenia z naszych tabel analitycznych (zagregowane wartości mogą pozostać bez identyfikatora urządzenia)
+Ustawienia → Udostępniaj anonimowe dane analityczne — wyłącz, aby zatrzymać przyszłe zbieranie
 Zarządzać powiadomieniami, aparatem i innymi uprawnieniami w ustawieniach iOS
-Anulować subskrypcje w ustawieniach Apple ID
 Prawa wynikające z RODO (UE/EOG/Zjednoczone Królestwo, jeśli mają zastosowanie)
 W stosownych przypadkach możesz żądać dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, sprzeciwić się przetwarzaniu oraz żądać przeniesienia danych. Możesz również złożyć skargę do właściwego organu nadzorczego (na Słowacji: Úrad na ochranu osobných údajov SR).
 

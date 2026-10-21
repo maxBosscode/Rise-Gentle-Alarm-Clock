@@ -1,6 +1,6 @@
 Política de privacidad
 Rise
-Fecha de entrada en vigor: 15 de septiembre de 2026
+Fecha de entrada en vigor: 24 de octubre de 2026
 
 1. Quiénes somos (responsable del tratamiento)
 Peter Švorc («nosotros»), Eslovaquia, es el responsable del tratamiento de los datos personales tratados en relación con la aplicación Rise.
@@ -13,7 +13,7 @@ No publicamos una dirección postal en esta Política. Puede ponerse en contacto
 Esta Política describe cómo Rise gestiona la información cuando utiliza la aplicación para iOS. Se aplica junto con nuestras Condiciones de uso.
 
 3. Qué es Rise
-Rise es una aplicación de despertador y rutina matutina (alarmas, paisajes sonoros opcionales, despertar mediante luz opcional, desafíos, información y estadísticas, widgets, Live Activities y compras Premium opcionales).
+Rise es una aplicación de despertador y rutina matutina (alarmas, paisajes sonoros, despertar mediante luz opcional, desafíos, información y estadísticas, widgets y Live Activities). Esta versión es gratuita y no incluye compras dentro de la aplicación.
 
 4. Datos que tratamos
 A. Datos almacenados en su dispositivo (generalmente no se cargan en nuestros servidores)
@@ -21,40 +21,37 @@ Según lo que introduzca y utilice:
 
 nombre / nombre para mostrar
 edad (si se proporciona)
-configuración de alarmas y hora de acostarse, días de repetición y preferencias de sonido
+configuración de alarmas y hora de acostarse, días de repetición, preferencias de sonido y configuración de desafíos
 preferencia de despertar mediante luz
 notas (por ejemplo, notas de «mañana»)
 respuestas de la configuración inicial (por ejemplo, duración del sueño y cómo se siente al despertar)
 historial local de despertares, rachas y datos similares de estadísticas
-preferencias de la aplicación (apariencia, tutoriales completados, indicadores de paywall/solicitudes de valoración)
-indicadores relacionados con compras almacenados localmente cuando sea necesario para el funcionamiento de la aplicación
+preferencias de la aplicación (apariencia, tutoriales completados, indicadores de solicitudes de valoración)
 Estos datos se almacenan localmente (incluido en un App Group para que los widgets/extensiones puedan acceder a los datos que necesiten). No es necesario crear una cuenta de Rise.
 
 B. Datos analíticos que enviamos a nuestros servidores
 Recopilamos análisis anónimos del producto para comprender cómo se utiliza Rise y mejorar la aplicación.
+Los análisis solo se recopilan después de que acepte las Condiciones de uso y la Política de privacidad en la aplicación, y solo en instalaciones de producción de la App Store (no TestFlight / Xcode). Puede desactivar la recopilación en cualquier momento en Ajustes → Compartir análisis anónimos.
 
 Normalmente incluyen:
 
 un identificador de dispositivo aleatorio (UUID generado en el dispositivo)
-nombres de eventos (por ejemplo: apertura de la aplicación, pasos de configuración, eventos del paywall, eventos de alarma/sueño y eventos relacionados con solicitudes de valoración)
-propiedades limitadas de los eventos (por ejemplo, tipo de plan, estados de interruptores, porcentaje de descuento y versión de la aplicación)
+nombres de eventos (por ejemplo: apertura de la aplicación, pasos de configuración, eventos de alarma/sueño y eventos relacionados con solicitudes de valoración)
+propiedades limitadas de los eventos (por ejemplo, estados de interruptores y versión de la aplicación)
 marcas de tiempo
 Los análisis se envían a una infraestructura de Supabase alojada en la UE.
 
 Diseñamos los análisis para que no incluyan su nombre, el texto de sus notas de «mañana» ni su ubicación GPS precisa.
 
 C. Compras
-Las compras son procesadas por Apple. Utilizamos RevenueCat para ayudar a verificar los derechos de acceso (estado de suscripción / compra de por vida / prueba).
-
-No recibimos el número completo de su tarjeta de pago. Apple puede procesar identificadores relacionados con su Apple ID y su historial de compras conforme a su política de privacidad.
+Esta versión de Rise no ofrece compras dentro de la aplicación. No procesamos pagos ni historial de compras a través de la aplicación.
 
 D. Datos relacionados con permisos (sistema operativo del dispositivo)
 Con su permiso, el sistema puede permitir que Rise utilice:
 
 Notificaciones — programar alertas locales
 Cámara — únicamente la linterna para el despertar mediante luz (no se cargan fotos ni vídeos)
-Micrófono — no se utiliza como función principal de recopilación de datos de Rise
-Audio en segundo plano — mantener activo el audio de despertar
+Audio en segundo plano — reproducir ambiente sonoro de despertar durante el despertar gradual (el micrófono nunca se utiliza; Rise no graba audio)
 Live Activities — mostrar el estado del sueño/despertar en la interfaz del sistema
 funciones opcionales de alarma del sistema, si están disponibles
 El estado de los permisos puede comprobarse en el dispositivo para permitir el funcionamiento de las funciones.
@@ -74,9 +71,6 @@ Contrato / acciones solicitadas por usted
 Mejorar el producto
 eventos analíticos anónimos
 Intereses legítimos (mejora del producto) y/o consentimiento cuando sea necesario
-Compras y control de acceso
-desbloquear Premium, restaurar compras, elegibilidad para pruebas
-Contrato; intereses legítimos
 Soporte y obligaciones legales
 responder a correos electrónicos, cumplir la ley
 Intereses legítimos / obligación legal
@@ -90,32 +84,30 @@ Rise está dirigida al público general. No recopilamos deliberadamente datos pe
 
 Si cree que un menor ha proporcionado datos de forma inadecuada, póngase en contacto con nosotros en support@bots5lab.com y tomaremos medidas razonables para eliminar los datos analíticos asociados a un identificador de dispositivo que nos ayude a identificar.
 
-Los padres/tutores deben supervisar el uso por parte de menores y gestionar las opciones de Tiempo de uso y compras de Apple según corresponda.
+Los padres/tutores deben supervisar el uso por parte de menores y gestionar las opciones de Tiempo de uso de Apple según corresponda.
 
 7. Compartición / encargados del tratamiento
 Compartimos datos únicamente cuando es necesario con:
 
-Apple — App Store, pagos, entrega de notificaciones push/locales y funciones del sistema operativo
-RevenueCat — procesamiento de compras y derechos de acceso
+Apple — App Store, entrega de notificaciones push/locales y funciones del sistema operativo
 Supabase — alojamiento de análisis en la UE
 Estos proveedores tratan los datos siguiendo nuestras instrucciones o como responsables independientes para sus propios servicios de plataforma (especialmente Apple).
 
 No vendemos datos personales ni los compartimos con anunciantes para publicidad dirigida.
 
 8. Transferencias internacionales
-Los análisis se alojan en la UE. Apple/RevenueCat pueden tratar datos en otros países conforme a sus condiciones y salvaguardas. Cuando sea necesario, las transferencias se basan en mecanismos adecuados (por ejemplo, Cláusulas Contractuales Tipo) utilizados por dichos proveedores.
+Los análisis se alojan en la UE. Apple puede tratar datos en otros países conforme a sus condiciones y salvaguardas. Cuando sea necesario, las transferencias se basan en mecanismos adecuados (por ejemplo, Cláusulas Contractuales Tipo) utilizados por dichos proveedores.
 
 9. Conservación
 Datos del dispositivo: hasta que los elimine en la aplicación (cuando esté disponible), borre los datos de la aplicación o desinstale Rise (sujeto a las copias de seguridad del sistema que usted controle).
 Eventos analíticos: se conservan durante un periodo operativo limitado (los eventos sin procesar no se conservan indefinidamente; nuestro objetivo es conservar aproximadamente 90 días de detalle de eventos sin procesar, salvo que indiquemos lo contrario).
 Estadísticas agregadas: podemos conservar métricas desidentificadas o agregadas (no vinculadas a su identificador de dispositivo) para comprender las tendencias del producto a largo plazo.
-Registros de compras: se conservan según sea necesario para los derechos de acceso, la contabilidad y las obligaciones legales (a menudo mediante Apple/RevenueCat).
 10. Sus opciones y derechos
 En la aplicación
 Cambiar o eliminar por sí mismo muchas configuraciones locales
 Ajustes → Eliminar mis datos analíticos — elimina de nuestras tablas analíticas los eventos asociados a su identificador de dispositivo (los totales agregados pueden permanecer sin su identificador)
+Ajustes → Compartir análisis anónimos — desactivar para detener la recopilación futura
 Gestionar las notificaciones, la cámara y otros permisos en los Ajustes de iOS
-Cancelar suscripciones en los ajustes de su Apple ID
 Derechos del RGPD (UE/EEE/Reino Unido, según corresponda)
 Puede solicitar, cuando sea aplicable, acceso, rectificación, supresión, limitación del tratamiento, oposición y portabilidad. También puede presentar una reclamación ante su autoridad de control (en Eslovaquia, la Úrad na ochranu osobných údajov SR).
 

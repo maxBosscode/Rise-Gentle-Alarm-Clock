@@ -1,6 +1,6 @@
 Kebijakan Privasi
 Rise
-Tanggal berlaku: 15 September 2026
+Tanggal berlaku: 24 Oktober 2026
 
 1. Siapa kami (pengendali data)
 Peter Švorc (“kami”), Slovakia, adalah pengendali data pribadi yang diproses sehubungan dengan aplikasi Rise.
@@ -13,7 +13,7 @@ Kami tidak mencantumkan alamat pos dalam Kebijakan ini. Anda dapat menghubungi k
 Kebijakan ini menjelaskan bagaimana Rise menangani informasi saat Anda menggunakan aplikasi iOS. Kebijakan ini berlaku bersama dengan Ketentuan Penggunaan kami.
 
 3. Apa itu Rise
-Rise adalah aplikasi untuk bangun tidur dan rutinitas pagi (alarm, soundscape opsional, bangun dengan cahaya opsional, tantangan, insight, widget, Live Activities, dan pembelian premium opsional).
+Rise adalah aplikasi untuk bangun tidur dan rutinitas pagi (alarm, soundscape, bangun dengan cahaya opsional, tantangan, insight, widget, dan Live Activities). Versi ini gratis dan tidak mencakup pembelian dalam aplikasi.
 
 4. Data yang kami proses
 A. Data yang disimpan di perangkat Anda (umumnya tidak diunggah ke server kami)
@@ -26,35 +26,32 @@ preferensi bangun dengan cahaya
 catatan (misalnya catatan untuk “besok”)
 jawaban onboarding (misalnya durasi tidur dan perasaan Anda saat bangun)
 riwayat bangun lokal, streak, dan data insight serupa
-preferensi aplikasi (tampilan, tutorial yang telah diselesaikan, penanda paywall/permintaan ulasan)
-penanda terkait pembelian yang disimpan secara lokal jika diperlukan untuk fungsi aplikasi
+preferensi aplikasi (tampilan, tutorial yang telah diselesaikan, penanda permintaan ulasan)
 Data ini disimpan secara lokal (termasuk dalam App Group agar widget/ekstensi dapat membaca data yang diperlukan). Kami tidak mewajibkan akun Rise.
 
 B. Analitik yang kami kirim ke server kami
 Kami mengumpulkan analitik produk anonim untuk memahami bagaimana Rise digunakan dan untuk meningkatkan aplikasi.
+Analitik hanya dikumpulkan setelah Anda menyetujui Ketentuan Penggunaan dan Kebijakan Privasi di aplikasi, dan hanya pada instalasi produksi App Store (bukan TestFlight / Xcode). Anda dapat mematikan pengumpulan kapan saja di Pengaturan → Bagikan analitik anonim.
 
 Biasanya mencakup:
 
 pengidentifikasi perangkat acak (UUID yang dibuat di perangkat)
-nama peristiwa (contoh: membuka aplikasi, langkah onboarding, peristiwa paywall, peristiwa alarm/tidur, peristiwa permintaan ulasan)
-properti peristiwa terbatas (misalnya jenis paket, status toggle, persentase diskon, versi aplikasi)
+nama peristiwa (contoh: membuka aplikasi, langkah onboarding, peristiwa alarm/tidur, peristiwa permintaan ulasan)
+properti peristiwa terbatas (misalnya status toggle, versi aplikasi)
 stempel waktu
 Analitik dikirim ke infrastruktur Supabase yang di-host di UE.
 
 Kami merancang analitik agar tidak mencakup nama Anda, teks catatan untuk besok, atau lokasi GPS yang tepat.
 
 C. Pembelian
-Pembelian diproses oleh Apple. Kami menggunakan RevenueCat untuk membantu memverifikasi hak akses (langganan / akses seumur hidup / status uji coba).
-
-Kami tidak menerima nomor lengkap kartu pembayaran Anda. Apple dapat memproses pengidentifikasi yang terkait dengan Apple ID dan riwayat pembelian Anda sesuai dengan kebijakan privasi Apple.
+Versi Rise ini tidak menawarkan pembelian dalam aplikasi. Kami tidak memproses pembayaran atau riwayat pembelian melalui Aplikasi.
 
 D. Data terkait izin (sistem operasi perangkat)
 Dengan izin Anda, sistem dapat mengizinkan Rise menggunakan:
 
 Notifikasi — menjadwalkan peringatan lokal
 Kamera — hanya lampu senter untuk bangun dengan cahaya (tidak untuk mengunggah foto/video)
-Mikrofon — tidak digunakan sebagai fitur utama pengumpulan data Rise
-Audio latar belakang — menjaga audio bangun tetap berjalan
+Audio latar belakang — memutar ambiens bangun yang dapat didengar selama bangun bertahap (mikrofon tidak pernah digunakan; Rise tidak merekam audio)
 Live Activities — menampilkan status tidur/bangun pada antarmuka sistem
 fitur alarm sistem opsional, jika tersedia
 Status izin itu sendiri dapat diperiksa di perangkat untuk menjalankan fitur.
@@ -74,9 +71,6 @@ Kontrak / langkah atas permintaan Anda
 Meningkatkan produk
 peristiwa analitik anonim
 Kepentingan yang sah (peningkatan produk), dan/atau persetujuan jika diwajibkan
-Pembelian & kontrol akses
-membuka premium, memulihkan akses, kelayakan uji coba
-Kontrak; kepentingan yang sah
 Dukungan & hukum
 menanggapi email, mematuhi hukum
 Kepentingan yang sah / kewajiban hukum
@@ -90,32 +84,30 @@ Rise ditujukan untuk masyarakat umum. Kami tidak dengan sengaja mengumpulkan dat
 
 Jika Anda yakin seorang anak memberikan data secara tidak semestinya, hubungi support@bots5lab.com dan kami akan mengambil langkah yang wajar untuk menghapus analitik yang terkait dengan ID perangkat yang Anda bantu kami identifikasi.
 
-Orang tua/wali harus mengawasi penggunaan oleh anak di bawah umur dan mengelola pengaturan Screen Time/pembelian Apple sebagaimana mestinya.
+Orang tua/wali harus mengawasi penggunaan oleh anak di bawah umur dan mengelola pengaturan Screen Time Apple sebagaimana mestinya.
 
 7. Berbagi / pemroses
 Kami hanya membagikan data jika diperlukan dengan:
 
-Apple — App Store, pembayaran, pengiriman notifikasi push/lokal, dan fitur OS
-RevenueCat — pemrosesan pembelian/hak akses
+Apple — App Store, pengiriman notifikasi push/lokal, dan fitur OS
 Supabase — hosting analitik di UE
 Penyedia ini memproses data berdasarkan instruksi kami atau sebagai pengendali data independen untuk layanan platform mereka sendiri (khususnya Apple).
 
 Kami tidak menjual data pribadi dan tidak membagikannya kepada pengiklan untuk iklan bertarget.
 
 8. Transfer internasional
-Analitik di-host di UE. Apple/RevenueCat dapat memproses data di negara lain berdasarkan ketentuan dan perlindungan mereka. Jika diwajibkan, transfer menggunakan mekanisme yang sesuai (misalnya Standard Contractual Clauses) yang digunakan oleh penyedia tersebut.
+Analitik di-host di UE. Apple dapat memproses data di negara lain berdasarkan ketentuan dan perlindungan mereka. Jika diwajibkan, transfer menggunakan mekanisme yang sesuai (misalnya Standard Contractual Clauses) yang digunakan oleh penyedia tersebut.
 
 9. Penyimpanan
 Data di perangkat: hingga Anda menghapusnya di aplikasi (jika tersedia), menghapus data aplikasi, atau menghapus Rise (dengan tunduk pada cadangan OS yang Anda kendalikan).
 Peristiwa analitik: disimpan selama periode operasional terbatas (data mentah tidak disimpan tanpa batas waktu; kami menargetkan sekitar 90 hari untuk detail peristiwa mentah kecuali kami menyatakan lain).
 Statistik agregat: kami dapat menyimpan metrik yang telah dihilangkan identitasnya atau diagregasi (tidak terkait dengan ID perangkat Anda) untuk memahami tren produk jangka panjang.
-Catatan pembelian: disimpan sesuai kebutuhan untuk hak akses, akuntansi, dan kewajiban hukum (sering kali melalui Apple/RevenueCat).
 10. Pilihan dan hak Anda
 Di Aplikasi
 Mengubah atau menghapus banyak pengaturan lokal sendiri
 Pengaturan → Hapus data analitik saya — menghapus peristiwa analitik yang terkait dengan ID perangkat Anda dari tabel analitik kami (total agregat dapat tetap ada tanpa ID perangkat Anda)
+Pengaturan → Bagikan analitik anonim — matikan untuk menghentikan pengumpulan di masa mendatang
 Mengelola notifikasi, kamera, dan izin lainnya di Pengaturan iOS
-Membatalkan langganan di pengaturan Apple ID
 Hak GDPR (UE/EEA/UK jika berlaku)
 Jika berlaku, Anda dapat meminta akses, perbaikan, penghapusan, pembatasan, keberatan, dan portabilitas data. Anda juga dapat mengajukan keluhan kepada otoritas pengawas Anda (di Slovakia: Úrad na ochranu osobných údajov SR).
 
