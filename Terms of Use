@@ -37,7 +37,7 @@ For Rise to work as intended, you may need to allow:
 
 Notifications (wake, bedtime, and related alerts)
 Camera access solely to control the flashlight for light waking (we do not use the camera to take photos or record video for this feature)
-Background audio so gradual wake sounds can play while Rise remains active near your alarm time (if the system suspends Rise while the screen is locked overnight, a local notification and any optional system backup alarm are the fallback)
+Background audio so a quiet nature bed can play while you Sleep and so gradual wake sounds can build near your alarm time (if the system interrupts audio, a local notification and any optional system backup alarm are the fallback)
 Live Activities for sleep/wake countdown surfaces
 Optionally system AlarmKit backup alarm a few minutes after your wake time if you enable it and authorize it
 No guarantee of wake-up. Alarm delivery depends on Apple’s operating system, your settings (Silent Mode, Focus, Do Not Disturb, Low Power Mode), battery state, network (where relevant), permissions, and device condition. Local notifications, Live Activities, background audio, and any system backup alarm are provided on a best-effort basis. We are not responsible if an alarm is missed, delayed, quiet, or blocked by the system or your settings.

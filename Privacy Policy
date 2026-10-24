@@ -50,7 +50,7 @@ With your permission, the system may allow Rise to use:
 
 Notifications — schedule local alerts
 Camera — flashlight only for light waking (not for uploading photos/video)
-Background audio — play audible wake ambience during gradual wake (microphone is never used; Rise does not record audio)
+Background audio — play an audible quiet nature bed while Sleep is active and denser wake ambience near alarm time (microphone is never used; Rise does not record audio)
 Live Activities — show sleep/wake status on system UI
 optionally system alarm features if available
 Permission status itself may be checked on device to operate features.
