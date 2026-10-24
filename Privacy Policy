@@ -1,6 +1,6 @@
 Privacy Policy
 Rise
-Effective date: 15 September 2026
+Effective date: 24 October 2026
 
 1. Who we are (controller)
 Peter Švorc (“we”, “us”), Slovakia, is the controller of personal data processed in connection with the Rise app.
@@ -13,7 +13,7 @@ We do not publish a postal address in this Policy. You can contact us by email f
 This Policy describes how Rise handles information when you use the iOS app. It applies alongside our Terms of Use.
 
 3. What Rise is
-Rise is a wake-up / morning-routine app (alarms, optional soundscapes, optional light waking, challenges, insights, widgets, Live Activities, and optional premium purchases).
+Rise is a wake-up / morning-routine app (alarms, soundscapes, optional light waking, challenges, insights, widgets, and Live Activities). This version is free and does not include in-app purchases.
 
 4. Data we process
 A. Data stored on your device (generally not uploaded to our servers)
@@ -26,35 +26,32 @@ light-waking preference
 notes (e.g. “tomorrow” notes)
 onboarding answers (e.g. sleep length, how you feel on waking)
 local wake history, streaks, and similar insights data
-app preferences (appearance, tutorials completed, paywall/review flags)
-purchase-related flags stored locally as needed for app function
+app preferences (appearance, tutorials completed, review flags)
 This data is stored locally (including in an App Group so widgets / extensions can read what they need). We do not require a Rise account.
 
 B. Analytics we send to our servers
 We collect anonymous product analytics to understand how Rise is used and improve it.
+Analytics are only collected after you agree to the Terms of Use and Privacy Policy in the app, and only on production App Store installs (not TestFlight / Xcode). You can turn collection off anytime under Settings → Share anonymous analytics.
 
 Typically includes:
 
 a random device identifier (UUID generated on device)
-event names (examples: app open, onboarding steps, paywall events, alarm/sleep events, review-prompt events)
-limited event properties (e.g. plan type, toggle states, discount percent, app version)
+event names (examples: app open, onboarding steps, alarm/sleep events, review-prompt events)
+limited event properties (e.g. toggle states, app version)
 timestamps
 Analytics are sent to Supabase infrastructure hosted in the EU.
 
 We design analytics not to include your name, tomorrow note text, or precise GPS location.
 
 C. Purchases
-Purchases are processed by Apple. We use RevenueCat to help verify entitlements (subscription / lifetime / trial status).
-
-We do not receive your full payment card number. Apple may process identifiers related to your Apple ID and purchase history under Apple’s privacy policy.
+This version of Rise does not offer in-app purchases. We do not process payments or purchase history through the App.
 
 D. Permissions-related data (device OS)
 With your permission, the system may allow Rise to use:
 
 Notifications — schedule local alerts
 Camera — flashlight only for light waking (not for uploading photos/video)
-Microphone — not used as a core Rise data-collection feature
-Background audio — keep wake audio running
+Background audio — play audible wake ambience during gradual wake (microphone is never used; Rise does not record audio)
 Live Activities — show sleep/wake status on system UI
 optionally system alarm features if available
 Permission status itself may be checked on device to operate features.
@@ -74,9 +71,6 @@ Contract / steps at your request
 Improve the product
 anonymous analytics events
 Legitimate interests (product improvement), and/or consent where required
-Purchases & access control
-unlock premium, restore, trial eligibility
-Contract; legitimate interests
 Support & legal
 respond to emails, comply with law
 Legitimate interests / legal obligation
@@ -90,32 +84,30 @@ Rise is for a general audience. We do not knowingly collect personal data from c
 
 If you believe a child provided data inappropriately, contact support@bots5lab.com and we will take reasonable steps to delete analytics linked to a device ID you help us identify.
 
-Parents/guardians should supervise use by minors and manage Apple Screen Time / purchase settings as appropriate.
+Parents/guardians should supervise use by minors and manage Apple Screen Time settings as appropriate.
 
 7. Sharing / processors
 We share data only as needed with:
 
-Apple — App Store, payments, push/local notification delivery, OS features
-RevenueCat — purchase/entitlement processing
+Apple — App Store, push/local notification delivery, OS features
 Supabase — EU hosting for analytics
 These providers process data on our instructions or as independent controllers for their own platform services (especially Apple).
 
 We do not sell personal data and do not share it with advertisers for targeted ads.
 
 8. International transfers
-Analytics are hosted in the EU. Apple/RevenueCat may process data in other countries under their terms and safeguards. Where required, transfers rely on appropriate mechanisms (e.g. Standard Contractual Clauses) used by those providers.
+Analytics are hosted in the EU. Apple may process data in other countries under their terms and safeguards. Where required, transfers rely on appropriate mechanisms (e.g. Standard Contractual Clauses) used by those providers.
 
 9. Retention
 On-device data: until you delete it in-app (where available), clear app data, or uninstall Rise (subject to OS backups you control).
 Analytics events: retained for a limited operational period (raw events are not kept indefinitely; we aim for roughly 90 days for raw event detail unless we state otherwise).
 Aggregated statistics: we may keep de-identified or aggregated metrics (not tied to your device ID) to understand long-term product trends.
-Purchase records: retained as needed for entitlements, accounting, and legal obligations (often via Apple/RevenueCat).
 10. Your choices and rights
 In the App
 Change or delete many local settings yourself
 Settings → Remove my analytics data — deletes analytics events associated with your device ID from our analytics tables (aggregate totals may remain without your device ID)
+Settings → Share anonymous analytics — turn off to stop future analytics collection
 Manage notifications, camera, and other permissions in iOS Settings
-Cancel subscriptions in Apple ID settings
 GDPR rights (EU/EEA/UK as applicable)
 You may request access, rectification, erasure, restriction, objection, and portability where applicable, and you may lodge a complaint with your supervisory authority (in Slovakia, the Úrad na ochranu osobných údajov SR).
 

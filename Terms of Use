@@ -1,6 +1,6 @@
 Terms of Use
 Rise
-Effective date: 15 September 2026
+Effective date: 24 October 2026
 
 1. Who we are
 These Terms of Use (“Terms”) govern your use of the mobile application Rise (the “App”), operated by Peter Švorc (“we”, “us”, “our”), based in Slovakia.
@@ -30,51 +30,32 @@ You may not copy, modify, distribute, reverse engineer, or create derivative wor
 All rights in Rise’s name, design, code, and content remain ours (or our licensors’).
 
 5. Accounts
-Rise does not require a Rise account or email to use core features. Purchases and restores are handled through your Apple ID.
+Rise does not require a Rise account or email to use core features. This version does not use Apple ID purchases or restore flows.
 
 6. Permissions and alarm reliability (important)
 For Rise to work as intended, you may need to allow:
 
 Notifications (wake, bedtime, and related alerts)
 Camera access solely to control the flashlight for light waking (we do not use the camera to take photos or record video for this feature)
-Background audio so wake sounds can continue while the phone is locked
+Background audio so gradual wake sounds can play while Rise remains active near your alarm time (if the system suspends Rise while the screen is locked overnight, a local notification and any optional system backup alarm are the fallback)
 Live Activities for sleep/wake countdown surfaces
-Optionally system alarm / AlarmKit features if offered and authorized by Apple on your device
+Optionally system AlarmKit backup alarm a few minutes after your wake time if you enable it and authorize it
 No guarantee of wake-up. Alarm delivery depends on Apple’s operating system, your settings (Silent Mode, Focus, Do Not Disturb, Low Power Mode), battery state, network (where relevant), permissions, and device condition. Local notifications, Live Activities, background audio, and any system backup alarm are provided on a best-effort basis. We are not responsible if an alarm is missed, delayed, quiet, or blocked by the system or your settings.
 
 You are responsible for enabling the permissions and settings needed for your use case.
 
-7. Purchases, trials, and subscriptions
-Some features may require an in-app purchase. Payment is processed by Apple. Prices are shown in the App / App Store and may vary by region, taxes, and promotions.
+7. Purchases
+Rise is currently free to download and use. This version does not offer in-app purchases, subscriptions, or trials. All features included in the App are available at no charge.
 
-Current purchase types (as offered in the App)
-Monthly subscription — auto-renewing; may include a 7-day free introductory trial when Apple determines you are eligible. After the trial, the subscription continues at the then-current monthly price unless you cancel.
-Lifetime — one-time purchase for permanent premium access under these Terms (no free trial on Lifetime).
-Promotional discounts (for example spin-wheel offers) may apply for a limited time as shown in the App.
-
-Auto-renewal
-Unless you cancel at least 24 hours before the end of the current period (or as Apple’s rules require), Apple will charge your Apple ID and renew the subscription. Manage or cancel in:
-
-Settings → [your name] → Subscriptions (or the equivalent on your device).
-
-Deleting the App does not cancel a subscription.
-
-Restore
-You can restore eligible purchases with the same Apple ID via the App’s restore control.
-
-Refunds
-Refunds are handled by Apple under Apple’s policies and applicable law. We do not process card payments ourselves.
-
-Changes
-We may change prices or offerings prospectively as allowed by Apple and law. If a free trial or promo ends, paid billing begins as disclosed at purchase.
+If paid offerings are added in a future update, they will be sold through Apple’s In-App Purchase system and disclosed in the App and App Store listing at that time.
 
 8. Acceptable use
 You agree not to:
 
 misuse the App or attempt to disrupt our services or Apple’s services
-reverse engineer or abuse APIs, analytics, or purchase systems
+reverse engineer or abuse APIs or analytics
 use Rise for unlawful purposes
-misrepresent purchases or attempt fraud
+attempt fraud or misuse of the App or Apple’s services
 9. Your content
 Notes, names, and similar content you enter are generally stored on your device (see Privacy Policy). If you share images or content (for example Insights share sheets), you are responsible for what you share.
 
@@ -83,8 +64,7 @@ You retain ownership of your content. You grant us only the limited rights neede
 10. Third-party services
 Rise may rely on:
 
-Apple (App Store, StoreKit, notifications, system features)
-RevenueCat (purchase/entitlement processing)
+Apple (App Store, notifications, system features)
 Supabase (analytics infrastructure, EU)
 Third-party terms and privacy policies may apply. We are not responsible for third-party services we do not control.
 
@@ -104,7 +84,7 @@ Nothing in these Terms excludes liability that cannot be excluded under Slovak o
 To the extent permitted by law, you agree to indemnify us against claims arising from your misuse of Rise or violation of these Terms, except to the extent caused by our willful misconduct.
 
 14. Termination
-You may stop using Rise at any time by deleting the App (and cancelling any subscription with Apple if needed).
+You may stop using Rise at any time by deleting the App.
 
 We may suspend or stop offering Rise or restrict access if you breach these Terms or if we discontinue the product. Sections that by nature should survive (including disclaimers, liability limits, and governing law) will survive.
 
