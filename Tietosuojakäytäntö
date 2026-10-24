@@ -1,6 +1,6 @@
 Tietosuojakäytäntö
 Rise
-Voimaantulopäivä: 15. syyskuuta 2026
+Voimaantulopäivä: 24. lokakuuta 2026
 
 1. Keitä olemme (rekisterinpitäjä)
 Peter Švorc (”me”, ”meitä”), Slovakia, on Rise-sovellukseen liittyvien henkilötietojen käsittelystä vastaava rekisterinpitäjä.
@@ -13,7 +13,7 @@ Emme julkaise postiosoitetta tässä tietosuojakäytännössä. Voit ottaa meihi
 Tässä tietosuojakäytännössä kuvataan, miten Rise käsittelee tietoja, kun käytät iOS-sovellusta. Sitä sovelletaan yhdessä käyttöehtojemme kanssa.
 
 3. Mikä Rise on
-Rise on heräämiseen ja aamurutiineihin tarkoitettu sovellus (hälytykset, valinnaiset äänimaisemat, valinnainen valoherätys, haasteet, näkemykset, widgetit, Live Activities -toiminnot ja valinnaiset premium-ostokset).
+Rise on heräämiseen ja aamurutiineihin tarkoitettu sovellus (hälytykset, äänimaisemat, valinnainen valoherätys, haasteet, näkemykset, widgetit ja Live Activities -toiminnot). Tämä versio on ilmainen eikä sisällä sovelluksen sisäisiä ostoja.
 
 4. Käsittelemämme tiedot
 A. Laitteellesi tallennetut tiedot (joita ei yleensä ladata palvelimillemme)
@@ -26,35 +26,32 @@ valoherätyksen asetus
 muistiinpanot (esim. ”huomista” koskevat muistiinpanot)
 käyttöönoton aikana annetut vastaukset (esim. unen pituus ja miltä sinusta tuntuu herätessä)
 paikallinen heräämishistoria, streakit ja vastaavat näkemyksiin liittyvät tiedot
-sovelluksen asetukset (ulkoasu, suoritetut ohjeet, paywall-/arvostelupyynnön merkinnät)
-ostoksiin liittyvät paikallisesti tallennetut tiedot siltä osin kuin niitä tarvitaan sovelluksen toimintaan
+sovelluksen asetukset (ulkoasu, suoritetut ohjeet, arvostelupyynnön merkinnät)
 Nämä tiedot tallennetaan paikallisesti (myös App Groupiin, jotta widgetit/laajennukset voivat lukea tarvitsemansa tiedot). Emme edellytä Rise-tilin luomista.
 
 B. Palvelimillemme lähettämämme analytiikkatiedot
 Keräämme anonyymiä tuotteen analytiikkatietoa ymmärtääksemme, miten Riseä käytetään, ja kehittääksemme sovellusta.
+Analytiikkatietoja kerätään vasta sen jälkeen, kun olet hyväksynyt käyttöehdot ja tietosuojakäytännön sovelluksessa, ja vain App Storen tuotantoasennuksissa (ei TestFlight / Xcode). Voit poistaa keruun käytöstä milloin tahansa kohdassa Asetukset → Jaa anonyymi analytiikka.
 
 Tämä sisältää yleensä:
 
 satunnaisen laitetunnisteen (laitteella luotu UUID)
-tapahtumien nimet (esim. sovelluksen avaaminen, käyttöönoton vaiheet, paywall-tapahtumat, herätys-/unitapahtumat ja arvostelupyynnön tapahtumat)
-rajoitetut tapahtumaominaisuudet (esim. tilaustyyppi, kytkimien tilat, alennusprosentti ja sovellusversio)
+tapahtumien nimet (esim. sovelluksen avaaminen, käyttöönoton vaiheet, herätys-/unitapahtumat ja arvostelupyynnön tapahtumat)
+rajoitetut tapahtumaominaisuudet (esim. kytkimien tilat ja sovellusversio)
 aikaleimat
 Analytiikkatiedot lähetetään EU:ssa sijaitsevaan Supabase-infrastruktuuriin.
 
 Suunnittelemme analytiikan siten, ettei se sisällä nimeäsi, huomista koskevien muistiinpanojen tekstiä tai tarkkaa GPS-sijaintiasi.
 
 C. Ostokset
-Apple käsittelee ostokset. Käytämme RevenueCatia tilausten ja muiden käyttöoikeuksien vahvistamiseen (tilaus / elinikäinen käyttöoikeus / kokeilujakso).
-
-Emme saa täydellistä maksukorttinumeroasi. Apple voi käsitellä Apple ID:hesi ja ostohistoriaasi liittyviä tunnisteita Applen tietosuojakäytännön mukaisesti.
+Tämä Rise-versio ei tarjoa sovelluksen sisäisiä ostoja. Emme käsittele maksuja tai ostohistoriaa sovelluksen kautta.
 
 D. Käyttöoikeuksiin liittyvät tiedot (laitteen käyttöjärjestelmä)
 Luvallasi järjestelmä voi sallia Risen käyttää:
 
 Ilmoitukset — paikallisten ilmoitusten ajastaminen
 Kamera — vain taskulamppuvaloherätystä varten (valokuvia/videoita ei ladata)
-Mikrofoni — ei käytetä Risen keskeisenä tiedonkeruuominaisuutena
-Taustaääni — herätysäänen pitäminen käynnissä
+Taustaääni — kuuluvan herätysambienssin toistaminen asteittaisen herätyksen aikana (mikrofonia ei koskaan käytetä; Rise ei tallenna ääntä)
 Live Activities — uni-/heräämistilan näyttäminen järjestelmän käyttöliittymässä
 mahdolliset järjestelmän hälytystoiminnot, jos ne ovat saatavilla
 Käyttöoikeuksien tila voidaan tarkistaa laitteella toimintojen mahdollistamiseksi.
@@ -74,9 +71,6 @@ Sopimus / pyynnöstäsi toteutettavat toimet
 Tuotteen kehittäminen
 anonyymit analytiikkatapahtumat
 Oikeutettu etu (tuotteen kehittäminen) ja/tai suostumus silloin, kun sitä vaaditaan
-Ostokset ja käyttöoikeuksien hallinta
-premiumin avaaminen, palauttaminen, kokeilujakson kelpoisuus
-Sopimus; oikeutettu etu
 Tuki ja lakisääteiset velvoitteet
 sähköposteihin vastaaminen, lain noudattaminen
 Oikeutettu etu / lakisääteinen velvoite
@@ -90,32 +84,30 @@ Rise on tarkoitettu yleiselle käyttäjäkunnalle. Emme tietoisesti kerää last
 
 Jos uskot, että lapsi on antanut tietoja epäasianmukaisesti, ota yhteyttä osoitteeseen support@bots5lab.com. Ryhdymme kohtuullisiin toimiin poistaaksemme analytiikan, joka liittyy laitetunnisteeseen, jonka autat meitä tunnistamaan.
 
-Vanhempien/huoltajien tulee valvoa alaikäisten käyttöä ja hallita tarvittaessa Applen Ruutuaika-/ostoasetuksia.
+Vanhempien/huoltajien tulee valvoa alaikäisten käyttöä ja hallita tarvittaessa Applen Ruutuaika-asetuksia.
 
 7. Tietojen jakaminen / käsittelijät
 Jaamme tietoja vain tarvittaessa seuraavien tahojen kanssa:
 
-Apple — App Store, maksut, push-/paikallisten ilmoitusten toimitus ja käyttöjärjestelmän ominaisuudet
-RevenueCat — ostosten ja käyttöoikeuksien käsittely
+Apple — App Store, push-/paikallisten ilmoitusten toimitus ja käyttöjärjestelmän ominaisuudet
 Supabase — EU:ssa sijaitseva analytiikan hosting
 Nämä palveluntarjoajat käsittelevät tietoja ohjeidemme mukaisesti tai itsenäisinä rekisterinpitäjinä omien alustapalveluidensa osalta (erityisesti Apple).
 
 Emme myy henkilötietoja emmekä jaa niitä mainostajille kohdennettua mainontaa varten.
 
 8. Kansainväliset tiedonsiirrot
-Analytiikkaa isännöidään EU:ssa. Apple/RevenueCat voivat käsitellä tietoja muissa maissa omien ehtojensa ja suojatoimiensa mukaisesti. Kun sitä edellytetään, siirrot perustuvat asianmukaisiin mekanismeihin (esim. vakiomuotoisiin sopimuslausekkeisiin), joita nämä palveluntarjoajat käyttävät.
+Analytiikkaa isännöidään EU:ssa. Apple voi käsitellä tietoja muissa maissa omien ehtojensa ja suojatoimiensa mukaisesti. Kun sitä edellytetään, siirrot perustuvat asianmukaisiin mekanismeihin (esim. vakiomuotoisiin sopimuslausekkeisiin), joita nämä palveluntarjoajat käyttävät.
 
 9. Säilytys
 Laitteella olevat tiedot: kunnes poistat ne sovelluksessa (jos toiminto on käytettävissä), tyhjennät sovelluksen tiedot tai poistat Risen (ottaen huomioon hallinnassasi olevat käyttöjärjestelmän varmuuskopiot).
 Analytiikkatapahtumat: säilytetään rajoitetun ajan (raakatapahtumia ei säilytetä pysyvästi; tavoitteemme on säilyttää yksityiskohtaiset raakatapahtumat noin 90 päivän ajan, ellei toisin ilmoiteta).
 Yhdistetyt tilastot: voimme säilyttää anonymisoituja tai yhdistettyjä mittareita (joita ei ole yhdistetty laitetunnisteeseesi) ymmärtääksemme pitkän aikavälin tuotetrendejä.
-Ostotiedot: säilytetään niin kauan kuin käyttöoikeuksien, kirjanpidon ja lakisääteisten velvoitteiden kannalta on tarpeen (usein Applen/RevenueCatin kautta).
 10. Valintasi ja oikeutesi
 Sovelluksessa
 Muuttaa tai poistaa monia paikallisia asetuksia itse
 Asetukset → Poista analytiikkatietoni — poistaa laitetunnisteeseesi liittyvät analytiikkatapahtumat analytiikkataulukoistamme (yhdistetyt kokonaismäärät voivat säilyä ilman laitetunnistettasi)
+Asetukset → Jaa anonyymi analytiikka — poista käytöstä tulevan keruun lopettamiseksi
 Hallita ilmoituksia, kameraa ja muita käyttöoikeuksia iOS-asetuksissa
-Peruuttaa tilauksia Apple ID -asetuksissa
 GDPR-oikeudet (EU/ETA/Yhdistynyt kuningaskunta soveltuvin osin)
 Voit sovellettavissa tapauksissa pyytää pääsyä tietoihisi, tietojen oikaisua tai poistamista, käsittelyn rajoittamista, vastustaa käsittelyä sekä pyytää tietojen siirrettävyyttä. Voit myös tehdä valituksen toimivaltaiselle valvontaviranomaiselle.
 

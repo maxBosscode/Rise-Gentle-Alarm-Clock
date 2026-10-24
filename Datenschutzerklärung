@@ -1,6 +1,6 @@
 Datenschutzerklärung
 Rise
-Gültig ab: 15. September 2026
+Gültig ab: 24. Oktober 2026
 
 1. Wer wir sind (Verantwortlicher)
 Peter Švorc („wir“, „uns“), Slowakei, ist der Verantwortliche für die Verarbeitung personenbezogener Daten im Zusammenhang mit der Rise-App.
@@ -13,7 +13,7 @@ Wir veröffentlichen in dieser Datenschutzerklärung keine Postanschrift. Bei Fr
 Diese Datenschutzerklärung beschreibt, wie Rise mit Informationen umgeht, wenn Sie die iOS-App verwenden. Sie gilt ergänzend zu unseren Nutzungsbedingungen.
 
 3. Was ist Rise?
-Rise ist eine App zum Aufwachen und für die Morgenroutine (Wecker, optionale Klanglandschaften, optionales sanftes Aufwachen mit Licht, Herausforderungen, Erkenntnisse, Widgets, Live Activities und optionale Premium-Käufe).
+Rise ist eine App zum Aufwachen und für die Morgenroutine (Wecker, Klanglandschaften, optionales sanftes Aufwachen mit Licht, Herausforderungen, Erkenntnisse, Widgets und Live Activities). Diese Version ist kostenlos und enthält keine In-App-Käufe.
 
 4. Welche Daten wir verarbeiten
 A. Auf Ihrem Gerät gespeicherte Daten (grundsätzlich nicht auf unsere Server hochgeladen)
@@ -21,40 +21,37 @@ Je nachdem, was Sie eingeben und verwenden:
 
 Name / Anzeigename
 Alter (falls angegeben)
-Wecker- und Schlafenszeiteinstellungen, Wiederholungstage, Klangeinstellungen
+Wecker- und Schlafenszeiteinstellungen, Wiederholungstage, Klangeinstellungen, Herausforderungseinstellungen
 Einstellungen für das Aufwachen mit Licht
 Notizen (z. B. „morgen“-Notizen)
 Antworten aus der Einrichtung (z. B. Schlafdauer, wie Sie sich beim Aufwachen fühlen)
 Lokaler Aufwachverlauf, Streaks und ähnliche Erkenntnisdaten
-App-Einstellungen (Erscheinungsbild, abgeschlossene Tutorials, Paywall-/Bewertungsflags)
-Kaufbezogene Flags, die für die Funktion der App lokal gespeichert werden
+App-Einstellungen (Erscheinungsbild, abgeschlossene Tutorials, Bewertungsflags)
 Diese Daten werden lokal gespeichert (einschließlich in einer App Group, damit Widgets/Erweiterungen die benötigten Daten lesen können). Für Rise ist kein Konto erforderlich.
 
 B. Analytics, die wir an unsere Server senden
 Wir erfassen anonyme Produktanalysen, um zu verstehen, wie Rise verwendet wird, und um die App zu verbessern.
+Analytics werden erst erfasst, nachdem Sie den Nutzungsbedingungen und der Datenschutzerklärung in der App zugestimmt haben, und nur bei Produktionsinstallationen aus dem App Store (nicht TestFlight / Xcode). Sie können die Erfassung jederzeit unter Einstellungen → Anonyme Analytics teilen deaktivieren.
 
 Typischerweise umfassen diese:
 
 eine zufällige Gerätekennung (auf dem Gerät generierte UUID)
-Ereignisnamen (z. B. App-Öffnung, Einrichtungsschritte, Paywall-Ereignisse, Wecker-/Schlafereignisse, Ereignisse im Zusammenhang mit Bewertungsaufforderungen)
-begrenzte Ereigniseigenschaften (z. B. Plantyp, Schalterzustände, Rabattprozentsatz, App-Version)
+Ereignisnamen (z. B. App-Öffnung, Einrichtungsschritte, Wecker-/Schlafereignisse, Ereignisse im Zusammenhang mit Bewertungsaufforderungen)
+begrenzte Ereigniseigenschaften (z. B. Schalterzustände, App-Version)
 Zeitstempel
 Analytics werden an eine von Supabase in der EU gehostete Infrastruktur gesendet.
 
 Wir gestalten Analytics so, dass sie weder Ihren Namen, den Text Ihrer „Morgen“-Notizen noch Ihren genauen GPS-Standort enthalten.
 
 C. Käufe
-Käufe werden von Apple verarbeitet. Wir verwenden RevenueCat, um die Berechtigungen (Abonnement-/Lifetime-/Teststatus) zu überprüfen.
-
-Wir erhalten nicht Ihre vollständige Kreditkartennummer. Apple kann Kennungen im Zusammenhang mit Ihrer Apple-ID und Ihrer Kaufhistorie gemäß der Datenschutzrichtlinie von Apple verarbeiten.
+Diese Version von Rise bietet keine In-App-Käufe. Wir verarbeiten über die App keine Zahlungen und keine Kaufhistorie.
 
 D. Berechtigungsbezogene Daten (Gerätebetriebssystem)
 Mit Ihrer Erlaubnis kann das System Rise die folgenden Funktionen ermöglichen:
 
 Mitteilungen — lokale Benachrichtigungen planen
 Kamera — ausschließlich die Taschenlampe für das Aufwachen mit Licht verwenden (keine Übertragung von Fotos/Videos)
-Mikrofon — wird nicht als zentrale Funktion zur Datenerfassung von Rise verwendet
-Hintergrundaudio — Weckaudio weiterlaufen lassen
+Hintergrundaudio — hörbare Weck-Ambiente während des sanften Aufwachens abspielen (das Mikrofon wird nie verwendet; Rise nimmt kein Audio auf)
 Live Activities — Schlaf-/Aufwachstatus in der Systemoberfläche anzeigen
 optionale System-Weckerfunktionen, sofern verfügbar
 Der Status von Berechtigungen kann auf dem Gerät überprüft werden, um Funktionen bereitzustellen.
@@ -74,9 +71,6 @@ Vertrag / von Ihnen angeforderte Schritte
 Verbesserung des Produkts
 anonyme Analytics-Ereignisse
 Berechtigte Interessen (Produktverbesserung) und/oder Einwilligung, sofern erforderlich
-Käufe & Zugriffskontrolle
-Premium freischalten, Käufe wiederherstellen, Testberechtigung
-Vertrag; berechtigte Interessen
 Support & rechtliche Verpflichtungen
 Beantwortung von E-Mails, Einhaltung gesetzlicher Vorgaben
 Berechtigte Interessen / rechtliche Verpflichtung
@@ -90,32 +84,30 @@ Rise richtet sich an ein allgemeines Publikum. Wir erfassen wissentlich keine pe
 
 Wenn Sie glauben, dass ein Kind unangemessen Daten bereitgestellt hat, kontaktieren Sie uns unter support@bots5lab.com. Wir werden angemessene Schritte unternehmen, um mit einer Gerätekennung verknüpfte Analytics zu löschen, sofern Sie uns dabei helfen, die betreffende Gerätekennung zu identifizieren.
 
-Eltern bzw. Erziehungsberechtigte sollten die Nutzung durch Minderjährige beaufsichtigen und die Apple-Einstellungen für Bildschirmzeit und Käufe entsprechend verwalten.
+Eltern bzw. Erziehungsberechtigte sollten die Nutzung durch Minderjährige beaufsichtigen und die Apple-Einstellungen für Bildschirmzeit entsprechend verwalten.
 
 7. Weitergabe / Auftragsverarbeiter
 Wir geben Daten nur weiter, soweit dies erforderlich ist, an:
 
-Apple — App Store, Zahlungen, Zustellung von Push-/lokalen Benachrichtigungen und Betriebssystemfunktionen
-RevenueCat — Verarbeitung von Käufen und Berechtigungen
+Apple — App Store, Zustellung von Push-/lokalen Benachrichtigungen und Betriebssystemfunktionen
 Supabase — Hosting der Analytics in der EU
 Diese Anbieter verarbeiten Daten entweder auf unsere Weisung oder als eigenständige Verantwortliche für ihre eigenen Plattformdienste (insbesondere Apple).
 
 Wir verkaufen keine personenbezogenen Daten und geben sie nicht an Werbetreibende für zielgerichtete Werbung weiter.
 
 8. Internationale Übermittlungen
-Analytics werden in der EU gehostet. Apple/RevenueCat können Daten gemäß ihren Bedingungen und den vorgesehenen Schutzmaßnahmen in anderen Ländern verarbeiten. Soweit erforderlich, beruhen Übermittlungen auf geeigneten Mechanismen (z. B. Standardvertragsklauseln), die von diesen Anbietern verwendet werden.
+Analytics werden in der EU gehostet. Apple kann Daten gemäß seinen Bedingungen und den vorgesehenen Schutzmaßnahmen in anderen Ländern verarbeiten. Soweit erforderlich, beruhen Übermittlungen auf geeigneten Mechanismen (z. B. Standardvertragsklauseln), die von diesen Anbietern verwendet werden.
 
 9. Speicherdauer
 Auf dem Gerät gespeicherte Daten: bis Sie diese in der App löschen (sofern verfügbar), App-Daten löschen oder Rise deinstallieren (vorbehaltlich von OS-Backups, die Sie selbst kontrollieren).
 Analytics-Ereignisse: werden für einen begrenzten betrieblichen Zeitraum gespeichert (Rohdaten werden nicht unbegrenzt aufbewahrt; wir streben eine Aufbewahrung detaillierter Rohdaten von etwa 90 Tagen an, sofern wir nichts anderes angeben).
 Aggregierte Statistiken: Wir können de-identifizierte oder aggregierte Kennzahlen aufbewahren, die nicht mit Ihrer Gerätekennung verknüpft sind, um langfristige Produkttrends zu verstehen.
-Kaufdaten: werden so lange aufbewahrt, wie dies für Berechtigungen, Buchhaltung und gesetzliche Verpflichtungen erforderlich ist (häufig über Apple/RevenueCat).
 10. Ihre Wahlmöglichkeiten und Rechte
 In der App
 Viele lokale Einstellungen selbst ändern oder löschen
 Einstellungen → Meine Analytics-Daten entfernen — löscht mit Ihrer Gerätekennung verbundene Analytics-Ereignisse aus unseren Analytics-Tabellen (aggregierte Gesamtwerte können ohne Ihre Gerätekennung erhalten bleiben)
+Einstellungen → Anonyme Analytics teilen — deaktivieren, um zukünftige Analytics-Erfassung zu stoppen
 Mitteilungen, Kamera und andere Berechtigungen in den iOS-Einstellungen verwalten
-Abonnements in den Apple-ID-Einstellungen kündigen
 DSGVO-Rechte (EU/EWR/Vereinigtes Königreich, soweit anwendbar)
 Sie können, soweit anwendbar, Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch und Datenübertragbarkeit verlangen. Außerdem können Sie eine Beschwerde bei Ihrer zuständigen Datenschutzaufsichtsbehörde einreichen (in der Slowakei beim Úrad na ochranu osobných údajov SR).
 
